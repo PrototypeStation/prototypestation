@@ -1,0 +1,60 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>permessi &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Oct 2020 13:59:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Android 11 in arrivo con features sulla privacy</title>
+		<link>./../../../2020/10/08/android-11-in-arrivo-con-features-sulla-privacy/index.html</link>
+					<comments>./../../../2020/10/08/android-11-in-arrivo-con-features-sulla-privacy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2020 13:59:15 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[11]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[android 11]]></category>
+		<category><![CDATA[auto-reset permessi]]></category>
+		<category><![CDATA[permessi]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[twitt]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=452</guid>
+
+					<description><![CDATA[Il Tweet di Android spiega alcune delle novità di Android 11. La Senior Product Manager: Charmaine D&#8217;Silva ci spiega come funziona l&#8217;auto-reset dei permessi qui sopra. Mettiamo caso che accettaste di dare la disponibilità ad una app di visualizzare file, fotocamera e microfono, quando l&#8217;app non viene più utilizzata Android fa un reset automatico dei [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Android11?src=hash&amp;ref_src=twsrc%5Etfw">#Android11</a> puts you in control of what permissions you want to share with apps on your phone. Hear from Senior Product Manager Charmaine D’Silva on the new privacy features that help keep you better protected. <a href="https://twitter.com/hashtag/BeCyberSmart?src=hash&amp;ref_src=twsrc%5Etfw">#BeCyberSmart</a> <a href="https://t.co/uyK22BdvIr">pic.twitter.com/uyK22BdvIr</a></p>&mdash; Android (@Android) <a href="https://twitter.com/Android/status/1313872811115581447?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Il Tweet di Android spiega alcune delle novità di Android 11. La Senior Product Manager: Charmaine D&#8217;Silva ci spiega come funziona l&#8217;auto-reset dei permessi qui sopra. Mettiamo caso che accettaste di dare la disponibilità ad una app di visualizzare file, fotocamera e microfono, quando l&#8217;app non viene più utilizzata Android fa un reset automatico dei permessi e in questo modo l&#8217;app in questione dovrà richiedere le autorizzazioni per i vari componenti del cellulare in questione (microfono, etcetc.).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/08/android-11-in-arrivo-con-features-sulla-privacy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

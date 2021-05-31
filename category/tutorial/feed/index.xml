@@ -1,0 +1,439 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TUTORIAL &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 07 May 2021 14:53:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Non sei un pratico minatore e non hai fondi per investire in cripto valute&#8230; Sei nel posto giusto. Usa CryptoTab Browser!</title>
+		<link>./../../../2021/05/07/non-sei-un-pratico-minatore-e-non-hai-fondi-per-investire-in-cripto-valute-sei-nel-posto-giusto-usa-cryptotab-browser/index.html</link>
+					<comments>./../../../2021/05/07/non-sei-un-pratico-minatore-e-non-hai-fondi-per-investire-in-cripto-valute-sei-nel-posto-giusto-usa-cryptotab-browser/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 07 May 2021 14:53:50 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[TUTORIAL]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2021/05/07/non-sei-un-pratico-minatore-e-non-hai-fondi-per-investire-in-cripto-valute-sei-nel-posto-giusto-usa-cryptotab-browser/</guid>
+
+					<description><![CDATA[Cryptotab Browser è un browser basato su Chrome che da la possibilità, tramite estensione integrata nel browser, di minare cripto valute. La cripto valuta in questione è il Bitcoin, la cripto valuta che più sta prendendo piede e che è utilizzabile nei vari siti come ad esempio Microsoft per l&#8217;acquisto di PC o altri accessori. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://cryptotabbrowser.com/19570240" target="_blank" rel="noreferrer noopener"><strong>Cryptotab Browser</strong> </a>è un browser basato su <strong>Chrome</strong> che da la possibilità, tramite estensione integrata nel browser, di <strong>minare cripto valute</strong>. La cripto valuta in questione è il <strong>Bitcoin</strong>, la cripto valuta che più sta prendendo piede e che è utilizzabile nei vari siti come ad esempio Microsoft per l&#8217;acquisto di PC o altri accessori. 1,0 Bitcoin per il momento vale quasi <strong>60.000$</strong>. Una cifra non da poco e questo prezzo di un Bitcoin varierà nel tempo sulla base di quanto investitori e minatori ci sono sul mercato. Ma cos&#8217;è il mining o minare; praticamente è un algoritmo sha256 che in loop viene risolto e per ogni blocco risolto venite pagati nella cripto valuta che state minando. Ora passiamo al necessario:</p>
+
+
+
+<p>&#8211; <a rel="noreferrer noopener" href="https://cryptotabbrowser.com/19570240" target="_blank">CryptoTab Browser</a><br>&#8211; <a href="https://play.google.com/store/apps/details?id=org.toshi" target="_blank" rel="noreferrer noopener">Coinbase Wallet</a><br>&#8211; Tempo</p>
+
+
+
+<p>CryptoTab Browser e le sue funzioni l&#8217;abbiamo riportato qua sopra. Vi ricordo che si può <strong>minare sia con lo smartphone che con il PC.</strong></p>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://play.google.com/store/apps/details?id=org.toshi" target="_blank">Coinbase Wallet</a></strong> è un <strong>portafoglio digitale totalmente gratuito </strong>dove potrete salvare e ritirare i Bitcoin minati con CryptoTab. Vi basterà selezionare <strong>ricevi Bitcoin</strong> su Coinbase Wallet e su CryptoTab copiare il codice del portafoglio digitale e tempo un paio di giorni lavorativi vi arriverà la somma sul portafoglio. <strong>Il minimo di Bitcoin ritirabile su CryptoTab è di 0,00001 BTC</strong>.</p>
+
+
+
+<p>In oltre CryptoTab offre funzioni di Boost a pagamento per l&#8217;Hashrate, la capacità di calcolo e un network dove riceverete una percentuale di Bitcoin se suggerite l&#8217;applicazione a qualche vostro amico.</p>
+
+
+
+<p>Per qualsiasi info non esitate a chiedere! <strong>Buon mining</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/05/07/non-sei-un-pratico-minatore-e-non-hai-fondi-per-investire-in-cripto-valute-sei-nel-posto-giusto-usa-cryptotab-browser/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TUTORIAL &#8211; Installare Sistema Operativo open-source di Apple DarwinOS con macchina virtuale QEMU</title>
+		<link>./../../../2020/07/24/tutorial-installare-sistema-operativo-open-source-di-apple-darwinos-con-macchina-virtuale-qemu/index.html</link>
+					<comments>./../../../2020/07/24/tutorial-installare-sistema-operativo-open-source-di-apple-darwinos-con-macchina-virtuale-qemu/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2020 15:41:04 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Darwin]]></category>
+		<category><![CDATA[DarwinOS]]></category>
+		<category><![CDATA[install]]></category>
+		<category><![CDATA[installare]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[QEMU]]></category>
+		<category><![CDATA[Sistema operativo]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=402</guid>
+
+					<description><![CDATA[PER WINDOWS 10 1)Download DarwinOS 8 iso al link &#8220;https://sourceforge.net/projects/darwinsource/files/Darwin/8.0.1/darwinx86-801.iso.gz/download&#8221; 1.1)Estrarre con 7zip il file .iso 2)Download QEMU macchina virtuale 2.1)Installare QEMU 2.2)Copiare DarwinOS.iso in QEMU directory 3)Da prompt dei comandi spostarsi nella cartella installata di QEMU &#8220;cd C:\Program Files\qemu&#8221; 3.1) Create il disco rigido dove installare DarwinOS digitando &#8220;qemu-img create -f qcow2 darwin.qcow2 10G&#8221; [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-foreground-background-color has-background">PER WINDOWS 10</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="TUTORIAL - Installare Sistema Operativo open-source di Apple DarwinOS con macchina virtuale QEMU" width="1170" height="658" src="https://www.youtube.com/embed/rCOjaS8mTH8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-foreground-background-color has-background">1)Download DarwinOS 8 iso al link &#8220;https://sourceforge.net/projects/darwinsource/files/Darwin/8.0.1/darwinx86-801.iso.gz/download&#8221;</p>
+
+
+
+<p class="has-foreground-background-color has-background">1.1)Estrarre con 7zip il file .iso</p>
+
+
+
+<p class="has-foreground-background-color has-background">2)Download QEMU macchina virtuale</p>
+
+
+
+<p class="has-foreground-background-color has-background">2.1)Installare QEMU</p>
+
+
+
+<p class="has-foreground-background-color has-background">2.2)Copiare DarwinOS.iso in QEMU directory</p>
+
+
+
+<p class="has-foreground-background-color has-background">3)Da prompt dei comandi spostarsi nella cartella installata di QEMU &#8220;cd C:\Program Files\qemu&#8221;</p>
+
+
+
+<p class="has-foreground-background-color has-background">3.1) Create il disco rigido dove installare DarwinOS digitando &#8220;qemu-img create -f qcow2 darwin.qcow2 10G&#8221;</p>
+
+
+
+<p class="has-background-color has-foreground-background-color has-text-color has-background">4)Fate partire la macchina virtuale con boot del file .iso &#8220;qemu-system-i386 -net none -drive file=darwin.qcow2,cache=writeback -cdrom darwinx86-801.iso -boot d&#8221;</p>
+
+
+
+<p class="has-foreground-background-color has-background">5)Installazione</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.1)Select disk</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.2)&#8221;2&#8243; (manual partitioning)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.3)&#8221;y&#8221; (initialize MBR)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.4)In fdisk:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>auto hfs</p></blockquote>
+
+
+
+<p class="has-foreground-background-color has-background">Ignore the warning</p>
+
+
+
+<blockquote class="wp-block-quote"><p>update</p><p>write</p><p>quit</p></blockquote>
+
+
+
+<p class="has-foreground-background-color has-background">5.5)Enter partition name</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.6)&#8221;yes&#8221; (clean install)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.7)&#8221;darwin&#8221; (volume name)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.8)Enter (reboot)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6)Secondo avvio</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.1)Select disk</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.2)&#8221;3&#8243; (existing partition)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.3)Enter partition name</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.4)&#8221;hfs&#8221; (HFS+ filesystem)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.5)&#8221;yes&#8221; (clean install)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.6)&#8221;darwin&#8221; (volume name)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.7)Wait for installation to complete…</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.8)Enter root password</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.9)&#8221;darwin&#8221; (hostname)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.10)&#8221;3&#8243; (spawn shell)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.11)# halt</p>
+
+
+
+<p class="has-foreground-background-color has-background">7)Avvio macchina virtuale digitando &#8220;qemu-system-i386 -net nic,model=rtl8139 -net user,hostfwd=tcp:127.0.0.1:10022-:22 -drive file=darwin.qcow2,cache=writeback&#8221;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/24/tutorial-installare-sistema-operativo-open-source-di-apple-darwinos-con-macchina-virtuale-qemu/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TUTORIAL &#8211; Guida definitiva all&#8217;aggiunta del tuo sito web WordPress.com su Google (Search Console)</title>
+		<link>./../../../2020/07/17/tutorial-guida-definitiva-allaggiunta-del-tuo-sito-web-wordpress-com-su-google-search-console/index.html</link>
+					<comments>./../../../2020/07/17/tutorial-guida-definitiva-allaggiunta-del-tuo-sito-web-wordpress-com-su-google-search-console/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 14:24:50 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[definitiva]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google search console]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=394</guid>
+
+					<description><![CDATA[Per prima cosa aggiunti il tuo sito web HTTPS su Google Search Console. Ti basta copiare il link del tuo sito. Ti verrà richiesto la verifica del tuo sito web e per farlo devi andare su altri tipi di verifica e selezionare HTML tag. Copia e incolla il meta-tag visualizzato in Google Search Console sul [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - Guida definitiva all&#039;aggiunta del tuo sito web WordPress.com su Google" width="1170" height="658" src="https://www.youtube.com/embed/IkTL5mxer-A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Per prima cosa aggiunti il tuo sito web HTTPS su Google Search Console. Ti basta copiare il link del tuo sito.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Ti verrà richiesto la verifica del tuo sito web e per farlo devi andare su altri tipi di verifica e selezionare HTML tag.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Copia e incolla il meta-tag visualizzato in Google Search Console sul tuo profilo WordPress.com nella sezione Strumenti&gt;Marketing&gt;Traffico&gt;Servizi di verifica del sito&gt;Google o altri a seconda di quale motore di ricerca stai indicizzando</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">In Google Search Console clicca su verifica dopo aver salvato le impostazioni su WordPress.com e sarai quasi istantaneamente indicizzato in Google.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/17/tutorial-guida-definitiva-allaggiunta-del-tuo-sito-web-wordpress-com-su-google-search-console/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TUTORIAL &#8211; WSL sottosistema Linux su Windows (Bash) tra cui Kali Linux, Ubuntu e SUSE</title>
+		<link>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/index.html</link>
+					<comments>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2020 16:38:11 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows subystem linux]]></category>
+		<category><![CDATA[wsl]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=385</guid>
+
+					<description><![CDATA[Linux ha forse una delle bash e shell più comode al mondo. Si possono installare una infinità di programmi e librerie da terminale&#8230; E Windows ha un infinità di programmi installabili col formato .exe ma che ne dite di avere entrambe? Qui sotto vi lascio la guida di come installare Ubuntu IN Windows con un [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - WSL sottosistema Linux su Windows tra cui Kali Linux, Ubuntu e SUSE" width="1170" height="658" src="https://www.youtube.com/embed/ltgV9hZFyRs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Linux ha forse una delle bash e shell più comode al mondo. Si possono installare una infinità di programmi e librerie da terminale&#8230; E Windows ha un infinità di programmi installabili col formato .exe ma che ne dite di avere entrambe? Qui sotto vi lascio la guida di come installare Ubuntu IN Windows con un app scaricabile dal Windows Store</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">ISTRUZIONI:</p>
+
+
+
+<ul><li>APRITE POWER SHELL DI WINDOWS COME AMMINISTRATORE</li><li>DIGITATE </li></ul>
+
+
+
+<pre class="wp-block-syntaxhighlighter-code">dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart</pre>
+
+
+
+<ul><li> ATTENDETE IL COMPLETAMENTO E RIAVVIATE IL PC. CI SARA&#8217; UN AGGIORNAMENTO, NON PREOCCUPATEVI</li><li>RIAVVIATO IL PC ENTRATE IN WINDOWS STORE APP E SCARICATE UBUNTU APP</li><li>AVVIATE E ATTENDETE L&#8217;INSTALLAZIONE</li><li>ECCO IL VOSTRO TERMINALE LINUX SU WINDOWS</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Docs: <a href="https://docs.microsoft.com/it-it/windows/wsl/install-win10" target="_blank" rel="noreferrer noopener">https://docs.microsoft.com/it-it/windows/wsl/install-win10</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tutorial &#8211; Editor Immagini GIMP con interfaccia grafica PhotoShop</title>
+		<link>./../../../2020/06/26/editor-immagini-gimp-con-interfaccia-grafica-photoshop/index.html</link>
+					<comments>./../../../2020/06/26/editor-immagini-gimp-con-interfaccia-grafica-photoshop/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2020 15:38:14 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[Gimp]]></category>
+		<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[photo]]></category>
+		<category><![CDATA[Photo editor]]></category>
+		<category><![CDATA[PhotoGIMP]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=349</guid>
+
+					<description><![CDATA[GIMP è un editor fotografico molto interessante anche per coloro che non vogliono spendere soldi ne violare la legge crackando PhotoShop. GIMP è un prodotto GNU (Linux) che, ovviamente, è open-source e ha molte funzionalità, forse non tutte, rispetto a PhotoShop. Io lo uso per fare delle icone per il mio blog e anche a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - Customizzazione GIMP stile PhotoShop" width="1170" height="658" src="https://www.youtube.com/embed/gawefMr_Pxc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="687" height="369" src="./../../../wp-content/uploads/2020/06/photogimp1.png?w=687" alt="" data-id="350" data-link="https://prototypestation.wordpress.com/photogimp1/" class="wp-image-350" srcset="./../../../wp-content/uploads/2020/06/photogimp1.png 687w, ./../../../wp-content/uploads/2020/06/photogimp1-300x161.png 300w" sizes="(max-width: 687px) 100vw, 687px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1366" height="728" src="./../../../wp-content/uploads/2020/06/photogimp2.png?w=1024" alt="" data-id="351" data-link="https://prototypestation.wordpress.com/photogimp2/" class="wp-image-351" srcset="./../../../wp-content/uploads/2020/06/photogimp2.png 1366w, ./../../../wp-content/uploads/2020/06/photogimp2-300x160.png 300w, ./../../../wp-content/uploads/2020/06/photogimp2-1024x546.png 1024w, ./../../../wp-content/uploads/2020/06/photogimp2-768x409.png 768w" sizes="(max-width: 1366px) 100vw, 1366px" /></figure></li></ul></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">GIMP è un editor fotografico molto interessante anche per coloro che non vogliono spendere soldi ne violare la legge crackando PhotoShop. GIMP è un prodotto GNU (Linux) che, ovviamente, è open-source e ha molte funzionalità, forse non tutte, rispetto a PhotoShop. Io lo uso per fare delle icone per il mio blog e anche a livello studentesco può essere una buona partenza per le prime classi. Comunque oggi vi volevo portare sul mio web-site una nuova interfaccia grafica chiamata PhotoGIMP che è l&#8217;equivalente di PhotoShop&#8230; esteticamente. Se siete utenti Windows vi basterà copiare dei file scaricabili da GitHub e sovrascrivere i file. Una volta avviato GIMP da start non troverete più l&#8217;immagine di caricamento delle librerie classico di GIMP ma quello di Diolinux, uno sviluppatore e una volta finito il caricamento ci sarà l&#8217;interfaccia tipo PhotoShop. Carina come idea. Voi la proverete? Se avete problemi <a href="https://github.com/Diolinux/PhotoGIMP">qui c&#8217;è la guida</a> in fondo alla pagina <a href="https://github.com/Diolinux/PhotoGIMP/archive/master.zip">con i file scaricabili</a>.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>ISTRUZIONI:</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>1) SCARICATE IL PACCHETTO ZIP DI DIOLINUX DAL LINK: <a href="https://github.com/Diolinux/PhotoGIMP">https://github.com/Diolinux/PhotoGIMP</a></strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>2) ESTRAETE IL FILE .ZIP</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>3) PER WINDOWS 10 COPIATE IL CONTENUTO DELLA DIRECTORY /.var/app/org.gimp.GIMP/config/GIMP/2.10 DEL FILE ESTRATTO NELLA CARTELLA NASCOSTA C:/Users/IL_TUO_NOME/AppData/Roaming/GIMP/2.10 </strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>4) AVVIATE GIMP 2.10+ E AVRETE PHOTOGIMP!MOSTRA MENO</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/26/editor-immagini-gimp-con-interfaccia-grafica-photoshop/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TUTORIAL &#8211; Winget Windows Package Manager installer</title>
+		<link>./../../../2020/06/03/winget-windows-package-manager-installer/index.html</link>
+					<comments>./../../../2020/06/03/winget-windows-package-manager-installer/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Wed, 03 Jun 2020 18:02:20 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=189</guid>
+
+					<description><![CDATA[Su linux esisteva apt-get per installare pacchetti come Steam. Ora Windows ha winget che è molto simile all&#8217;installatore di pacchetti di Linux. Basterà digitare sul nuovo prompt dei comandi denominato Terminal (giusto per essere un po più Linuxiani) la parola winget e ci verranno forniti i vari comandi di winget se questo è installato. Facciamo [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - Installazione winget Windows Package Manager su Windows 10 build 2004" width="1170" height="658" src="https://www.youtube.com/embed/y2oEOCK0VZs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1080" height="675" src="./../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image.jpg?w=1024" alt="" class="wp-image-190" srcset="./../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image.jpg 1080w, ./../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image-300x188.jpg 300w, ./../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image-1024x640.jpg 1024w, ./../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image-768x480.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Su linux esisteva apt-get per installare pacchetti come Steam. Ora Windows ha winget che è molto simile all&#8217;installatore di pacchetti di Linux. Basterà digitare sul nuovo prompt dei comandi denominato <a href="https://www.microsoft.com/it-it/p/windows-terminal/9n0dx20hk701?wa=wsignin1.0&amp;lc=1040&amp;activetab=pivot:overviewtab">Terminal</a> (giusto per essere un po più Linuxiani) la parola winget e ci verranno forniti i vari comandi di winget se questo è installato. Facciamo un esempio: dobbiamo cercare il nome del pacchetto di una applicazione che vogliamo installare su Windows quindi dall&#8217;app Terminal digitiamo winget search &lt;nome pacchetto&gt;. Premendo invio ci verranno forniti tutti i pacchetti inerenti a &lt;nome pacchetto&gt;. Successivamente per installarlo dovremo digitare winget install &lt;nome pacchetto visualizzato dalla ricerca&gt;. In automatico il Terminal scaricherà il file .exe e lo installerà.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>ISTRUZIONI:</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>1) SCARICATE IL PACCHETTO .APPXBUNDLE DA https://github-production-release-asset-2e65be.s3.amazonaws.com/197275130/a7799580-9510-11ea-8ea9-5bdcdcb92a6f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200703%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200703T150442Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e84219ab59d4780d41e58a0a12e6d7ff6601acd87ae8eef3e1eeb20e1e317250&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;repo_id=197275130&amp;response-content-disposition=attachment%3B%20filename%3DMicrosoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundle&amp;response-content-type=application%2Foctet-stream</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>2) INSTALLATE IL PACCHETTO</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>3) DA APP TERMINAL WINDOWS 10 SCRIVETE winget install _nome_pacchetto_ PER INSTALLARE UN PROGRAMMA</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>4) FINITO IL DOWNLOAD E L&#8217;INSTALLAZIONE ANDATE SU START E TROVERETE IL VOSTRO PROGRAMMA GIA&#8217; INSTALLATOMOSTRA MENO</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/03/winget-windows-package-manager-installer/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

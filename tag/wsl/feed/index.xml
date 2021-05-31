@@ -1,0 +1,78 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wsl &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Jul 2020 16:38:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>TUTORIAL &#8211; WSL sottosistema Linux su Windows (Bash) tra cui Kali Linux, Ubuntu e SUSE</title>
+		<link>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/index.html</link>
+					<comments>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2020 16:38:11 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows subystem linux]]></category>
+		<category><![CDATA[wsl]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=385</guid>
+
+					<description><![CDATA[Linux ha forse una delle bash e shell più comode al mondo. Si possono installare una infinità di programmi e librerie da terminale&#8230; E Windows ha un infinità di programmi installabili col formato .exe ma che ne dite di avere entrambe? Qui sotto vi lascio la guida di come installare Ubuntu IN Windows con un [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - WSL sottosistema Linux su Windows tra cui Kali Linux, Ubuntu e SUSE" width="1170" height="658" src="https://www.youtube.com/embed/ltgV9hZFyRs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Linux ha forse una delle bash e shell più comode al mondo. Si possono installare una infinità di programmi e librerie da terminale&#8230; E Windows ha un infinità di programmi installabili col formato .exe ma che ne dite di avere entrambe? Qui sotto vi lascio la guida di come installare Ubuntu IN Windows con un app scaricabile dal Windows Store</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">ISTRUZIONI:</p>
+
+
+
+<ul><li>APRITE POWER SHELL DI WINDOWS COME AMMINISTRATORE</li><li>DIGITATE </li></ul>
+
+
+
+<pre class="wp-block-syntaxhighlighter-code">dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart</pre>
+
+
+
+<ul><li> ATTENDETE IL COMPLETAMENTO E RIAVVIATE IL PC. CI SARA&#8217; UN AGGIORNAMENTO, NON PREOCCUPATEVI</li><li>RIAVVIATO IL PC ENTRATE IN WINDOWS STORE APP E SCARICATE UBUNTU APP</li><li>AVVIATE E ATTENDETE L&#8217;INSTALLAZIONE</li><li>ECCO IL VOSTRO TERMINALE LINUX SU WINDOWS</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Docs: <a href="https://docs.microsoft.com/it-it/windows/wsl/install-win10" target="_blank" rel="noreferrer noopener">https://docs.microsoft.com/it-it/windows/wsl/install-win10</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

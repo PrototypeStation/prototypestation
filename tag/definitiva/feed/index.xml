@@ -1,0 +1,69 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>definitiva &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Jul 2020 14:24:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>TUTORIAL &#8211; Guida definitiva all&#8217;aggiunta del tuo sito web WordPress.com su Google (Search Console)</title>
+		<link>./../../../2020/07/17/tutorial-guida-definitiva-allaggiunta-del-tuo-sito-web-wordpress-com-su-google-search-console/index.html</link>
+					<comments>./../../../2020/07/17/tutorial-guida-definitiva-allaggiunta-del-tuo-sito-web-wordpress-com-su-google-search-console/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 14:24:50 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[definitiva]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google search console]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=394</guid>
+
+					<description><![CDATA[Per prima cosa aggiunti il tuo sito web HTTPS su Google Search Console. Ti basta copiare il link del tuo sito. Ti verrà richiesto la verifica del tuo sito web e per farlo devi andare su altri tipi di verifica e selezionare HTML tag. Copia e incolla il meta-tag visualizzato in Google Search Console sul [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - Guida definitiva all&#039;aggiunta del tuo sito web WordPress.com su Google" width="1170" height="658" src="https://www.youtube.com/embed/IkTL5mxer-A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Per prima cosa aggiunti il tuo sito web HTTPS su Google Search Console. Ti basta copiare il link del tuo sito.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Ti verrà richiesto la verifica del tuo sito web e per farlo devi andare su altri tipi di verifica e selezionare HTML tag.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Copia e incolla il meta-tag visualizzato in Google Search Console sul tuo profilo WordPress.com nella sezione Strumenti&gt;Marketing&gt;Traffico&gt;Servizi di verifica del sito&gt;Google o altri a seconda di quale motore di ricerca stai indicizzando</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">In Google Search Console clicca su verifica dopo aver salvato le impostazioni su WordPress.com e sarai quasi istantaneamente indicizzato in Google.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/17/tutorial-guida-definitiva-allaggiunta-del-tuo-sito-web-wordpress-com-su-google-search-console/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

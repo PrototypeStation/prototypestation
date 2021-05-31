@@ -1,0 +1,58 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Olympia &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Jun 2020 15:10:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Olympia &#8211; EX900 Sport Full Suspended</title>
+		<link>./../../../2020/06/04/olympia-ex900-sport-full-suspended/index.html</link>
+					<comments>./../../../2020/06/04/olympia-ex900-sport-full-suspended/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2020 15:10:37 +0000</pubDate>
+				<category><![CDATA[GREEN]]></category>
+		<category><![CDATA[900Wh]]></category>
+		<category><![CDATA[E-Bike]]></category>
+		<category><![CDATA[ebike]]></category>
+		<category><![CDATA[EX900]]></category>
+		<category><![CDATA[LG]]></category>
+		<category><![CDATA[Olympia]]></category>
+		<category><![CDATA[Powernine]]></category>
+		<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=205</guid>
+
+					<description><![CDATA[Prodotto italianissimo Olympia. E&#8217; la EX900 Sport. Questa bici ha riscosso un gran successo grazie alla sua batteria Powernine da 900Wh. E&#8217; una LG con le stesse celle della Tesla. Questa batteria è stata progettata appositamente per le Olympia. Secondo un calcolo approssimativo dovrebbe percorrere 150 km con una carica (facendo conto che una batteria [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="557" src="./../../../wp-content/uploads/2020/06/ex-900-sport-2020.jpg?w=1000" alt="" class="wp-image-206" srcset="./../../../wp-content/uploads/2020/06/ex-900-sport-2020.jpg 1000w, ./../../../wp-content/uploads/2020/06/ex-900-sport-2020-300x167.jpg 300w, ./../../../wp-content/uploads/2020/06/ex-900-sport-2020-768x428.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Prodotto italianissimo Olympia. E&#8217; la EX900 Sport. Questa bici ha riscosso un gran successo grazie alla sua batteria Powernine da 900Wh. E&#8217; una LG con le stesse celle della Tesla. Questa batteria è stata progettata appositamente per le Olympia. Secondo un calcolo approssimativo dovrebbe percorrere 150 km con una carica (facendo conto che una batteria Bosch da 400Wh percorre all&#8217;incirca 70 km). Passiamo al motore: è un Mid Motor ovvero posizionato sui pedali con sensore per la pedalata assistita. In oltre è una e-bike full suspended. Il prezzo oscilla dai 3.900,00 € ai 4.359,00&nbsp;€; un prezzo accettabile visto la batteria molto capiente.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/04/olympia-ex900-sport-full-suspended/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

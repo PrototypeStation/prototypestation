@@ -1,0 +1,58 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Italia &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 10 Jun 2020 13:50:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>NIU &#8211; Flagship Store Roma</title>
+		<link>./../../../2020/06/10/niu-flagship-store-roma/index.html</link>
+					<comments>./../../../2020/06/10/niu-flagship-store-roma/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2020 13:50:39 +0000</pubDate>
+				<category><![CDATA[GREEN]]></category>
+		<category><![CDATA[E-Bike]]></category>
+		<category><![CDATA[Flagship]]></category>
+		<category><![CDATA[Italia]]></category>
+		<category><![CDATA[Milano]]></category>
+		<category><![CDATA[NIU]]></category>
+		<category><![CDATA[Roma]]></category>
+		<category><![CDATA[Scooter]]></category>
+		<category><![CDATA[store]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=246</guid>
+
+					<description><![CDATA[Dopo il Flagship Store di Milano arriva il brand cinese di scooter e e-bike NIU a Roma. Si trova in Viale dei Parioli 114, Roma e Corso San Gottardo 9, Milano. Vi lascio il link ufficiale dei Flagship Store italiani dove si potranno prenotare Test Drive e vedere i modelli presenti negli Store con relativi [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://www.macitynet.it/wp-content/uploads/2020/06/unnamed-696x549.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Dopo il Flagship Store di Milano arriva il brand cinese di scooter e e-bike NIU a Roma. Si trova in Viale dei Parioli 114, Roma e Corso San Gottardo 9, Milano. Vi lascio il <a href="https://www.niustoreitalia.com/">link ufficiale</a> dei Flagship Store italiani dove si potranno prenotare Test Drive e vedere i modelli presenti negli Store con relativi prezzi e sconti.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/10/niu-flagship-store-roma/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

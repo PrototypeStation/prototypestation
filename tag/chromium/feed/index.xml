@@ -1,0 +1,57 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chromium &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 07 Jun 2020 13:37:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Browser &#8211; Microsoft Edge basato su Chromium</title>
+		<link>./../../../2020/06/07/browser-microsoft-edge-basato-su-chromium/index.html</link>
+					<comments>./../../../2020/06/07/browser-microsoft-edge-basato-su-chromium/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 13:37:31 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Chromium]]></category>
+		<category><![CDATA[Edge]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=219</guid>
+
+					<description><![CDATA[Finalmente tramite Windows Update si potrà scaricare il nuovo browser targato Microsoft. Il nome rimane lo stesso: Edge ma questa volta non sarà più basato su Internet Explorer ma su Chromium di Big Google. Chromium è come Google Chrome solo open-source. Le impostazioni del browser Microsoft Edge saranno molto simili a Chromium con qualche chicca [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="640" height="360" src="./../../../wp-content/uploads/2020/06/edge.jpg?w=640" alt="" class="wp-image-220" srcset="./../../../wp-content/uploads/2020/06/edge.jpg 640w, ./../../../wp-content/uploads/2020/06/edge-300x169.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Finalmente tramite Windows Update si potrà scaricare il nuovo browser targato Microsoft. Il nome rimane lo stesso: Edge ma questa volta non sarà più basato su Internet Explorer ma su Chromium di Big Google. Chromium è come Google Chrome solo open-source. Le impostazioni del browser Microsoft Edge saranno molto simili a Chromium con qualche chicca in più sulla sicurezza fatta da Microsoft. Molto veloce nell&#8217;apertura e nel caricamento delle pagine web e dell&#8217;applicazione stessa. Secondo me finalmente un browser Microsoft degno di nota&#8230; grazie anche al software open-source di Google. Io lo utilizzo da un po e non ho riscontrato nessun tipo di problema; anzi, mi piace molto! C&#8217;è anche un altro modo per scaricarlo: dalla pagina web di Microsoft si può scaricare l&#8217;installer della versione stabile di Microsoft Edge Chromium che sostituirà il vecchio browser di Windows. Vi lascio il <a href="https://support.microsoft.com/it-it/help/4501095/download-the-new-microsoft-edge-based-on-chromium">link qui</a>. Provatelo!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/07/browser-microsoft-edge-basato-su-chromium/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

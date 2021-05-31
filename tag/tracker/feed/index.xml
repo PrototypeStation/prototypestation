@@ -1,0 +1,56 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tracker &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Jun 2020 14:20:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Xiaomi &#8211; Mi Band 5</title>
+		<link>./../../../2020/06/05/xiaomi-mi-band-5/index.html</link>
+					<comments>./../../../2020/06/05/xiaomi-mi-band-5/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 14:20:06 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[fitness]]></category>
+		<category><![CDATA[mi band 5]]></category>
+		<category><![CDATA[smartwatch]]></category>
+		<category><![CDATA[tracker]]></category>
+		<category><![CDATA[xiaomi]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=215</guid>
+
+					<description><![CDATA[L&#8217;11 giugno uscirà Xiaomi &#8211; Mi Band 5 activity tracker con nuove caratteristiche e funzionalità. Ve ne elenco alcune: lo schermo più grande è di 1,2 pollici, assistente vocale, c&#8217;è un nuovo sensore per rilevare la presenza di ossigeno all&#8217;interno del sangue oltre che il rilevamento del battito cardiaco e sensore NFC con cui si [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1280" height="720" src="./../../../wp-content/uploads/2020/06/xiaomi-band-5-trapelano-prime-foto-futuristica-smartband-v4-443435.jpg?w=1024" alt="" class="wp-image-216" srcset="./../../../wp-content/uploads/2020/06/xiaomi-band-5-trapelano-prime-foto-futuristica-smartband-v4-443435.jpg 1280w, ./../../../wp-content/uploads/2020/06/xiaomi-band-5-trapelano-prime-foto-futuristica-smartband-v4-443435-300x169.jpg 300w, ./../../../wp-content/uploads/2020/06/xiaomi-band-5-trapelano-prime-foto-futuristica-smartband-v4-443435-1024x576.jpg 1024w, ./../../../wp-content/uploads/2020/06/xiaomi-band-5-trapelano-prime-foto-futuristica-smartband-v4-443435-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">L&#8217;11 giugno uscirà Xiaomi &#8211; Mi Band 5 activity tracker con nuove caratteristiche e funzionalità. Ve ne elenco alcune: lo schermo più grande è di 1,2 pollici, assistente vocale, c&#8217;è un nuovo sensore per rilevare la presenza di ossigeno all&#8217;interno del sangue oltre che il rilevamento del battito cardiaco e sensore NFC con cui si potranno fare anche pagamenti contactless. Il prezzo dovrebbe essere di una decina di euro in più rispetto al Mi Band 4 dovuto all&#8217;aggiunta di queste nuove features. C&#8217;è tutto per poche decine di euro!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/05/xiaomi-mi-band-5/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

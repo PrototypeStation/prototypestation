@@ -1,0 +1,426 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Jan 2021 16:30:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Volete verificare se il vostro filesystem dello smartphone è &#8220;ok&#8221;&#8230; Questo tool fa al caso vostro</title>
+		<link>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/index.html</link>
+					<comments>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 16:30:34 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[adb]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[CHECK]]></category>
+		<category><![CDATA[checker]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[fabiofabrob7]]></category>
+		<category><![CDATA[filesystem]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[su]]></category>
+		<category><![CDATA[superuser]]></category>
+		<category><![CDATA[system]]></category>
+		<category><![CDATA[Tool]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=524</guid>
+
+					<description><![CDATA[Quest&#8217;applicazione scritta in python3 vi darà la possibilità di verificare il vostro sistema Android con la possibilità di aggiustarlo automaticamente. Purtroppo solo su tutti gli smarphone con permessi di root (su/SuperUser). Questo tool monterà il sistema tramite Android Debug Bridge e checkerà tutto il sistema Android e quindi c&#8217;è bisogno del permesso di scrittura e [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quest&#8217;applicazione scritta in python3 vi darà la possibilità di verificare il vostro sistema Android con la possibilità di aggiustarlo automaticamente. Purtroppo solo su tutti gli smarphone con permessi di root (su/SuperUser). Questo tool monterà il sistema tramite Android Debug Bridge e checkerà tutto il sistema Android e quindi c&#8217;è bisogno del permesso di scrittura e lettura (RW). Questo io non posso darvelo ma sappiate che ci sono un sacco di tool (sia one-click che via flash) che vi daranno questi permessi oltre al file SU. In conclusione dopo avere il root avviate il programma da terminale (per Linux), cmd o Powershell (per Windows) e il gioco è fatto. Vedrete infine che il processo vi restituirà che sul vostro smartphone non ci sono problemi o se e2fsck ha riscontrato dei problemi e li ha sistemati. <a rel="noreferrer noopener" href="https://github.com/FabioFabRob7/e2fsck_ANDROID" target="_blank">Vi lascio il link mio GitHub</a> dove troverete tutti i file e le istruzioni nel file README.md. LA PROCEDURA NON E&#8217; RISCHIOSA!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simple_Flasher_Recovery_TWRP_or_CWM è il tool più semplice per il flash definitivo della vostra CUSTOM recovery preferita</title>
+		<link>./../../../2021/01/05/simple_flasher_recovery_twrp_or_cwm-e-il-tool-piu-semplice-per-il-flash-definitivo-della-vostra-custom-recovery-preferita/index.html</link>
+					<comments>./../../../2021/01/05/simple_flasher_recovery_twrp_or_cwm-e-il-tool-piu-semplice-per-il-flash-definitivo-della-vostra-custom-recovery-preferita/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 13:31:18 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[all devices]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Bootloader]]></category>
+		<category><![CDATA[CWM]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[flasher]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[simple]]></category>
+		<category><![CDATA[TWRP]]></category>
+		<category><![CDATA[Unlock]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=517</guid>
+
+					<description><![CDATA[Questo tool semplifica il processo per installare CWM o TWRP. Aprendo il programma da terminale e dopo aver installato Python (il linguaggio di programmazione in uso e necessario per il funzionamento dell&#8217;app) verrete aiutati e verrà automatizzato il processo del flash della recovery&#8230; QUALUNQUE ESSA SIA. Questo tool non solo eseguirà il flash dell&#8217;app (sia [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Questo tool semplifica il processo per installare CWM o TWRP. Aprendo il programma da terminale e dopo aver installato Python (il linguaggio di programmazione in uso e necessario per il funzionamento dell&#8217;app) verrete aiutati e verrà automatizzato il processo del flash della recovery&#8230; QUALUNQUE ESSA SIA. Questo tool non solo eseguirà il flash dell&#8217;app (sia che abbiate Linux o Windows) ma verrete indirizzati nella pagina ufficiale di TWRP devices in modo da selezionare il vostro dispositivo in maniera ufficiale. Vi ricordo che la TWRP o CWM recovery devono ASSOLUTAMENTE essere quelle del vostro dispositivo, in caso non lo fosse danneggerete il vostro smartphone. Vi ricordo in oltre che il metodo di flash è quello riportato da TWRP&#8230; Semplifico solo il lavoro per coloro che non hanno dimestichezza e non sanno dove sbattere la testa. In oltre NON SONO RESPONSABILE DI EVENTUALI E IPOTETICI DANNEGGIAMENTI DEI DEVICES. L&#8217;app <em>Simple_Flasher_Recovery_TWRP_or_CWM.py</em> vi chiederà solo di inserire la directory (dove avete salvato il file twrp.img) e, una volta premuto invio, il programma farà tutto in automatico. Vi ricordo che il bootloader dovrà essere sbloccato e per questo c&#8217;è un altro mio programmino che potrete trovare nel link (<a rel="noreferrer noopener" href="https://prototypestation.wordpress.com/2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/" target="_blank">Android_Unlocker</a>). Infine vi lascio il programma per il flash della TWRP o CWM recovery a questo link (<a href="https://github.com/FabioFabRob7/Simple_Flasher_Recovery_TWRP_or_CWM" target="_blank" rel="noreferrer noopener">Simple_Flasher_Recovery_TWRP_or_CWM</a>). Vi ricordo di leggere il file README.md per tutte le informazioni e per il corretto avvio dell&#8217;app. Non vi resta che scaricare i vari tool e procedere con i metodi ufficiali e semplificati da me. BUONA FORTUNA!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/05/simple_flasher_recovery_twrp_or_cwm-e-il-tool-piu-semplice-per-il-flash-definitivo-della-vostra-custom-recovery-preferita/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Volete sbloccare il bootloader del vostro device o di vari brands Android&#8230; QUESTO FA AL CASO VOSTRO!</title>
+		<link>./../../../2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/index.html</link>
+					<comments>./../../../2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 23:29:40 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Bootloader]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Programma]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[rom]]></category>
+		<category><![CDATA[sblocco]]></category>
+		<category><![CDATA[Tool]]></category>
+		<category><![CDATA[Unlock]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=511</guid>
+
+					<description><![CDATA[Oramai il moding è entrato nelle orecchie di tutti ma di quasi tutti&#8230; Quindi ho sviluppato un app in Python che unisse un po&#8217; tutti i metodi ufficiali per i brands più venduti. Ovviamente non è un tool ufficiale ma i metodi sono quelli riportati dalle case di smartphone e, inoltre, i processi per lo [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Oramai il moding è entrato nelle orecchie di tutti ma di quasi tutti&#8230; Quindi ho sviluppato un app in Python che unisse un po&#8217; tutti i metodi ufficiali per i brands più venduti. Ovviamente non è un tool ufficiale ma i metodi sono quelli riportati dalle case di smartphone e, inoltre, i processi per lo sblocco del bootloader sono automatici. Purtroppo il programma è stato sviluppato in inglese anche se è molto comprensibile (aiutatevi con Google Traduttore). Visto che lo sblocco del bootloader è una pratica molto vantaggiosa che vi permette di entrare in possesso del vostro smartphone e flashare o installare qual si voglia programma, custom ROM, recovery, etcetc. mi sembrava giusto semplificare la vita. Ricordo che lo sblocco del bootloader fa perdere tutti i dati quindi ESEGUITE IL BACKUP e non mi assumo la responsabilità dell&#8217;eventuale e ipotetico brick dello smartphone. Comunque parlando di &#8220;official unlock&#8221; e quindi non penso ci saranno grandi problemi. Vi basterà seguire le istruzioni (sempre in inglese) per Windows o Linux e scaricare il file .zip con il programma .py e altri tool necessari allo sblocco del bootloader. Seguite attentamente il programma dopo averlo avviato come spiegato nel file README.md e il gioco sarà fatto. I brand supportati sono:</p>
+
+
+
+<ul><li>Google Pixel Phone</li><li>Huawei</li><li>Nokia-ONLY_8</li><li>Samsung</li><li>Sony</li><li>Xiaomi</li><li>General Devices NEW</li><li>General Devices OLD</li></ul>
+
+
+
+<p>Vi lascio il link dove troverete tutto: <a href="https://github.com/FabioFabRob7/Android_Unlocker">GitHub</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sapete che si può giocare allo smartphone con un controller?! Asus ci semplifica la vita con ROG Clip</title>
+		<link>./../../../2020/10/20/sapete-che-si-puo-giocare-allo-smartphone-con-un-controller-asus-ci-semplifica-la-vita-con-rog-clip/index.html</link>
+					<comments>./../../../2020/10/20/sapete-che-si-puo-giocare-allo-smartphone-con-un-controller-asus-ci-semplifica-la-vita-con-rog-clip/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2020 13:58:49 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[XBOX/PLAYSTATION]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[asus]]></category>
+		<category><![CDATA[attacco controller smartphone]]></category>
+		<category><![CDATA[clip]]></category>
+		<category><![CDATA[controller]]></category>
+		<category><![CDATA[playstation]]></category>
+		<category><![CDATA[rog]]></category>
+		<category><![CDATA[rog clip]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=505</guid>
+
+					<description><![CDATA[Ecco cosa ci mancava nelle case di tutti i gamer. Oltre al Rog Phone 3, un prodotto potentissimo, completo e di alta qualità, finalmente qualche azienda di gaming, in questo caso ROG di Asus, ha inventato questa clip per tenere sospeso sopra il controller Xbox, PlayStation e Google Stadia il vostro ROG Phone. Non so [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">ROG Clip supports Xbox, Stadia and PlayStation controllers, turning <a href="https://twitter.com/hashtag/ROGPhone3?src=hash&amp;ref_src=twsrc%5Etfw">#ROGPhone3</a> into an on-the-go gaming beast.<a href="https://twitter.com/hashtag/GameChanger?src=hash&amp;ref_src=twsrc%5Etfw">#GameChanger</a> <a href="https://t.co/cx2pqqwglH">pic.twitter.com/cx2pqqwglH</a></p>&mdash; ROG Global (@ASUS_ROG) <a href="https://twitter.com/ASUS_ROG/status/1318489000768806912?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Ecco cosa ci mancava nelle case di tutti i gamer. Oltre al Rog Phone 3, un prodotto potentissimo, completo e di alta qualità, finalmente qualche azienda di gaming, in questo caso ROG di Asus, ha inventato questa clip per tenere sospeso sopra il controller Xbox, PlayStation e Google Stadia il vostro ROG Phone. Non so se sarà compatibile anche per altri smartphone. Ci spero tanto perchè vorrei giocare al mio COD Mobile comodamente sdraiato a testa rivolta verso l&#8217;alto con il JoyStick PS4 Bluetooth. Il prodotto sembra, dall&#8217;immagine qua sopra riportata, molto robusto e degno di Asus. Spero di trovarlo il prima possibile da MediaWorld o Online.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/20/sapete-che-si-puo-giocare-allo-smartphone-con-un-controller-asus-ci-semplifica-la-vita-con-rog-clip/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Date di uscita ONEPLUS 8T E POP-UP Bundle</title>
+		<link>./../../../2020/10/14/date-di-uscita-oneplus-8t-e-pop-up-bundle/index.html</link>
+					<comments>./../../../2020/10/14/date-di-uscita-oneplus-8t-e-pop-up-bundle/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 16:08:45 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[8T]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[bundle]]></category>
+		<category><![CDATA[date uscita]]></category>
+		<category><![CDATA[oneplus]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[oxygen]]></category>
+		<category><![CDATA[preordine]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=472</guid>
+
+					<description><![CDATA[Sono partiti quest&#8217;oggi i preordini di OnePlus, uno degli smartphone più potenti e con OS (Oxygen/Android) esteticamente intuitivo, ben visibile e carino. Le date di uscita di OnePlus 8T variano da Europa, Nord America, India e, qui in Europa, i prezzi vanno da 599€ e 699€ a seconda della configurazione. Cellulare, come prima riportato, molto [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Finally, how are these for good-looking numbers? <br><br>Get all the latest at <a href="https://t.co/ONQxMewllF">https://t.co/ONQxMewllF</a> <a href="https://t.co/vwdz4weMiv">pic.twitter.com/vwdz4weMiv</a></p>&mdash; OnePlus (@oneplus) <a href="https://twitter.com/oneplus/status/1316388793172332544?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Sono partiti quest&#8217;oggi i preordini di OnePlus, uno degli smartphone più potenti e con OS (Oxygen/Android) esteticamente intuitivo, ben visibile e carino. Le date di uscita di OnePlus 8T variano da Europa, Nord America, India e, qui in Europa, i prezzi vanno da 599€ e 699€ a seconda della configurazione. Cellulare, come prima riportato, molto potente e con un hardware non indifferente. Oltre al Tweet sulle date di uscita delle varie parti del mondo vi riportiamo anche un Bundle carino contenente: vari accessori e lo smartphone (OnePlus 8T). Il link e pagina ufficiale è riportato qui sotto nel secondo Tweet. Vi ricordiamo anche che il Bundle, come lo smartphone comprato singolarmente, è solo in preordine e che in europa uscirà il 20 ottobre 2020 nelle configurazioni 8GB Ram + 128GB Rom (599€) o 12GB Ram + 256GB Rom (699€) prezzo di listino.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Get your hands on the <a href="https://twitter.com/hashtag/OnePlus8T?src=hash&amp;ref_src=twsrc%5Etfw">#OnePlus8T</a>, and a whole lot more, in our Pop-up Bundle! Get it before it&#39;s gone &#8211; <a href="https://t.co/Z4EFeoU7A8">https://t.co/Z4EFeoU7A8</a> <a href="https://t.co/WHWd3Wmd9j">pic.twitter.com/WHWd3Wmd9j</a></p>&mdash; OnePlus (@oneplus) <a href="https://twitter.com/oneplus/status/1316390806681341953?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/14/date-di-uscita-oneplus-8t-e-pop-up-bundle/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2020-2021 le date di uscita di Android 11 per alcuni smartphone by HMD Global (NOKIA)</title>
+		<link>./../../../2020/10/08/2020-2021-le-date-di-uscita-di-android-11-per-alcuni-smartphone-by-hmd-global-nokia/index.html</link>
+					<comments>./../../../2020/10/08/2020-2021-le-date-di-uscita-di-android-11-per-alcuni-smartphone-by-hmd-global-nokia/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2020 14:04:58 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[11]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[2021]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[android 11]]></category>
+		<category><![CDATA[data uscita]]></category>
+		<category><![CDATA[HMD Global]]></category>
+		<category><![CDATA[nokia]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=456</guid>
+
+					<description><![CDATA[Ecco il Tweet di Nokia Mobile dove vengono indicati gli smartphone Android NOKIA che verranno aggiornati nel Q4 2020 e Q1, Q2 2021. Abbiamo parlato nell&#8217;articolo precedente delle nuove features di Android 11 ma solo alcune. Aspettiamo l&#8217;uscita ufficiale e stiamo in ascolto nei futuri articoli per parlare di più di questo OS.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We’re very excited to announce our <a href="https://twitter.com/hashtag/Android11?src=hash&amp;ref_src=twsrc%5Etfw">#Android11</a> upgrade roadmap! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f973.png" alt="🥳" class="wp-smiley" style="height: 1em; max-height: 1em;" />  We’ve released over 1000 updates in the past 3 years as part of our Pure, Secure and Up-To-Date pledge, keeping your device safe and protected with the latest Android releases. Here’s to the next 1000! <a href="https://t.co/GJ7RsDImfq">pic.twitter.com/GJ7RsDImfq</a></p>&mdash; Nokia Mobile (@NokiaMobile) <a href="https://twitter.com/NokiaMobile/status/1314190214655475712?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Ecco il Tweet di Nokia Mobile dove vengono indicati gli smartphone Android NOKIA che verranno aggiornati nel Q4 2020 e Q1, Q2 2021. Abbiamo parlato nell&#8217;articolo precedente delle nuove features di Android 11 ma solo alcune. Aspettiamo l&#8217;uscita ufficiale e stiamo in ascolto nei futuri articoli per parlare di più di questo OS.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/08/2020-2021-le-date-di-uscita-di-android-11-per-alcuni-smartphone-by-hmd-global-nokia/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Android 11 in arrivo con features sulla privacy</title>
+		<link>./../../../2020/10/08/android-11-in-arrivo-con-features-sulla-privacy/index.html</link>
+					<comments>./../../../2020/10/08/android-11-in-arrivo-con-features-sulla-privacy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2020 13:59:15 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[11]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[android 11]]></category>
+		<category><![CDATA[auto-reset permessi]]></category>
+		<category><![CDATA[permessi]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[twitt]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=452</guid>
+
+					<description><![CDATA[Il Tweet di Android spiega alcune delle novità di Android 11. La Senior Product Manager: Charmaine D&#8217;Silva ci spiega come funziona l&#8217;auto-reset dei permessi qui sopra. Mettiamo caso che accettaste di dare la disponibilità ad una app di visualizzare file, fotocamera e microfono, quando l&#8217;app non viene più utilizzata Android fa un reset automatico dei [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Android11?src=hash&amp;ref_src=twsrc%5Etfw">#Android11</a> puts you in control of what permissions you want to share with apps on your phone. Hear from Senior Product Manager Charmaine D’Silva on the new privacy features that help keep you better protected. <a href="https://twitter.com/hashtag/BeCyberSmart?src=hash&amp;ref_src=twsrc%5Etfw">#BeCyberSmart</a> <a href="https://t.co/uyK22BdvIr">pic.twitter.com/uyK22BdvIr</a></p>&mdash; Android (@Android) <a href="https://twitter.com/Android/status/1313872811115581447?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Il Tweet di Android spiega alcune delle novità di Android 11. La Senior Product Manager: Charmaine D&#8217;Silva ci spiega come funziona l&#8217;auto-reset dei permessi qui sopra. Mettiamo caso che accettaste di dare la disponibilità ad una app di visualizzare file, fotocamera e microfono, quando l&#8217;app non viene più utilizzata Android fa un reset automatico dei permessi e in questo modo l&#8217;app in questione dovrà richiedere le autorizzazioni per i vari componenti del cellulare in questione (microfono, etcetc.).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/08/android-11-in-arrivo-con-features-sulla-privacy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nuove Emoji su Android ma solo nella selezione</title>
+		<link>./../../../2020/09/10/nuove-emoji-su-android-ma-solo-nella-selezione/index.html</link>
+					<comments>./../../../2020/09/10/nuove-emoji-su-android-ma-solo-nella-selezione/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2020 10:55:43 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[emoji]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[notizie]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[ultime]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=412</guid>
+
+					<description><![CDATA[Avete notato anche voi, utilizzatori di Gboard, che la tastiera di Big Google ha aggiornato le proprie Emoji per una selezione più semplice. Le faccine sono graficamente migliorate e gli omini, animali, cibi e segnaletiche più grandi. In effetti quelle precedenti erano molto scomode perché, per una persona che non vede benissimo, erano fin troppo [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1080" height="747" src="./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272.png?w=1024" alt="" class="wp-image-413" srcset="./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272.png 1080w, ./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272-300x208.png 300w, ./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272-1024x708.png 1024w, ./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272-768x531.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+
+
+
+<p>Avete notato anche voi, utilizzatori di Gboard, che la tastiera di Big Google ha aggiornato le proprie Emoji per una selezione più semplice. Le faccine sono graficamente migliorate e gli omini, animali, cibi e segnaletiche più grandi. In effetti quelle precedenti erano molto scomode perché, per una persona che non vede benissimo, erano fin troppo piccole. Ottima soluzione quelle di ingrandirle&#8230; L&#8217;unico problema è che sono presenti solo nella Gboard. Infatti quando selezioniamo la nostra Emoji e la inviamo rimangono quelle di un secolo fa. Purtroppo credo che il problema sia la compatibilità tra vari OS che per ovvi motivi di visualizzazione nelle conversazioni l&#8217;Emoji inviate sono uniformate per tutti gli OS. Speriamo che le varie case si mettano d&#8217;accordo per migliorarle.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/09/10/nuove-emoji-su-android-ma-solo-nella-selezione/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Smartwatch Google Wear &#8211; IL MENO COSTOSO &#8211; Ticwatch E</title>
+		<link>./../../../2020/06/20/smartwatch-google-wear-il-meno-costoso-ticwatch-e/index.html</link>
+					<comments>./../../../2020/06/20/smartwatch-google-wear-il-meno-costoso-ticwatch-e/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sat, 20 Jun 2020 14:42:07 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[affordable]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[basso costo]]></category>
+		<category><![CDATA[cheap]]></category>
+		<category><![CDATA[entry level]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[smartwatch]]></category>
+		<category><![CDATA[ticwatch E]]></category>
+		<category><![CDATA[wear os]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=315</guid>
+
+					<description><![CDATA[Oggi vi presenterò lo smartwatch entry level Ticwatch E. Questo smartwatch ha Android Wear per una modica cifra di 100€ su Amazon.it. E&#8217; impermeabile agli schizzi. Si connette con lo smartphone e ha l&#8217;assistente Google. Ha una piccola cassa per sentire la voce di Google e le chiamate. Nel PlayStore troviamo Google Maps e tante [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - Smartwatch basso costo android Wear OS Ticwatch E" width="1170" height="658" src="https://www.youtube.com/embed/Ubylk19i5WI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://www.themarsicanbear.com/wp-content/uploads/2018/06/s-l1600.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Oggi vi presenterò lo smartwatch entry level Ticwatch E. Questo smartwatch ha Android Wear per una modica cifra di 100€ su Amazon.it. E&#8217; impermeabile agli schizzi. Si connette con lo smartphone e ha l&#8217;assistente Google. Ha una piccola cassa per sentire la voce di Google e le chiamate. Nel PlayStore troviamo Google Maps e tante altre app per lo sport e watchface che sono i quadranti. L&#8217;autonomia è di 1 giorno e mezzo se non si attiva lo schermo always on. Abbiamo il monitoraggio continuo del battito cardiaco attivandolo dalle impostazioni che non drena troppo la batteria. Il launcher è molto interessante e per ogni swipe troviamo delle applicazioni. Mi sembra un ottimo smartwatch cinese soprattutto per il prezzo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/20/smartwatch-google-wear-il-meno-costoso-ticwatch-e/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lenovo &#8211; Legion Phone</title>
+		<link>./../../../2020/06/11/lenovo-legion-phone/index.html</link>
+					<comments>./../../../2020/06/11/lenovo-legion-phone/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2020 12:32:17 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[cfw]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[legion]]></category>
+		<category><![CDATA[Lenovo]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=258</guid>
+
+					<description><![CDATA[Il primo Lenovo Legion smartphone. Le voci che girano dicono di un uscita per l&#8217;estate, precisamente a luglio. E&#8217; confermato un nuovo sistema di raffreddamento progettato per questo smartphone. Ma ora vi riporto le specifiche di questo smartphone mostruoso. Soc Qualcomm Snapdragon 865 o 865 Plus Display: FHD+ con frequenza di aggiornamento a 90/144Hz (campionamento [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://i1.wp.com/bandwidthblog.co.za/wp-content/uploads/2020/05/lenovo-legion-1.jpg?resize=1170%2C585&amp;ssl=1" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Il primo Lenovo Legion smartphone. Le voci che girano dicono di un uscita per l&#8217;estate, precisamente a luglio. E&#8217; confermato un nuovo sistema di raffreddamento progettato per questo smartphone. Ma ora vi riporto le specifiche di questo smartphone mostruoso.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Soc</p>
+
+
+
+<ul><li> Qualcomm Snapdragon 865 o 865 Plus</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Display:</p>
+
+
+
+<ul><li> FHD+ con frequenza di aggiornamento a 90/144Hz (campionamento del tocco a 270 Hz)</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Memoria:</p>
+
+
+
+<ul><li>RAM LPPDR5</li><li>memoria di archiviazione UFS 3.0</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Fotocamera:</p>
+
+
+
+<ul><li>Doppia Posteriore: 64+16MP (principale + grandangolare)</li><li>Anteriore: 20MP in un modulo pop-up laterale</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Connettività:</p>
+
+
+
+<ul><li>5G, USB-C</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Batteria:</p>
+
+
+
+<ul><li> 4.000 mAh con supporto alla ricarica rapida a 90W</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Per ora niente di ufficiale, solo leak. Sarà una futura concorrenza con Asus con il suo Rog Phone&#8230; chi lo sa! Io personalmente ho un computer Lenovo e mi trovo molto bene. Speriamo che anche gli smartphone Lenovo siano come i computer!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/11/lenovo-legion-phone/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

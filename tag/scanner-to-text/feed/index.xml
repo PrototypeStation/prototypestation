@@ -1,0 +1,58 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scanner to text &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 18 Jan 2021 18:05:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Avete uno scanner o una foto e volete estrapolare il testo&#8230; USA IMG_to_TEXT.py</title>
+		<link>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/index.html</link>
+					<comments>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 18:05:54 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[img]]></category>
+		<category><![CDATA[program]]></category>
+		<category><![CDATA[Programma]]></category>
+		<category><![CDATA[scanner]]></category>
+		<category><![CDATA[scanner documento]]></category>
+		<category><![CDATA[scanner to text]]></category>
+		<category><![CDATA[testo]]></category>
+		<category><![CDATA[text]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows app]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=531</guid>
+
+					<description><![CDATA[Ebbene sì. Purtroppo non c&#8217;è un modo per gli scanner di estrapolare e di creare un documento in formato .txt o .doc. E invece una possibilità un po&#8217; macchinosa c&#8217;è. Utilizzando IMG_to_TEXT.py! Il programma richiede python3. Le istruzioni sono sul file README.md e vi consiglio di leggerlo attentamente per il corretto funzionamento dell&#8217;app. Dopo aver [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ebbene sì. Purtroppo non c&#8217;è un modo per gli scanner di estrapolare e di creare un documento in formato .txt o .doc. E invece una possibilità un po&#8217; macchinosa c&#8217;è. Utilizzando IMG_to_TEXT.py! Il programma richiede python3. Le istruzioni sono sul file README.md e vi consiglio di leggerlo attentamente per il corretto funzionamento dell&#8217;app. Dopo aver installato qualche libreria tramite pip (tutto scritto dettagliatamente nel file README.md), si potrà avviare l&#8217;applicazione tramite prompt dei comandi o CMD o PowerShell. Si aprirà una pagina web dove installare il machine learning (non sto a spiegare cos&#8217;è, andate tranquilli per l&#8217;installazione) e &#8220;il motore&#8221; dell&#8217;app sarà pronto in pochi passaggi. In seguito inserite la directory dell&#8217;immagine scannerizzata e vi verrà visualizzato tutto il testo nel CMD o PowerShell. Vi basterà fare un copia e incolla su un nuovo documento Word e il gioco è fatto. <a href="https://github.com/FabioFabRob7/IMG_to_TEXT">Vi lascio il link GitHub</a> con tutti i file disponibili al download</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

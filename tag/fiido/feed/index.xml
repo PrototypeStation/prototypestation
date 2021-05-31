@@ -1,0 +1,62 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fiido &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 10 Jun 2020 14:20:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Fiido &#8211; D11</title>
+		<link>./../../../2020/06/10/fiido-d11/index.html</link>
+					<comments>./../../../2020/06/10/fiido-d11/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2020 14:20:25 +0000</pubDate>
+				<category><![CDATA[GREEN]]></category>
+		<category><![CDATA[100 km]]></category>
+		<category><![CDATA[Bicicletta]]></category>
+		<category><![CDATA[Cina]]></category>
+		<category><![CDATA[Crowdfunding]]></category>
+		<category><![CDATA[D11]]></category>
+		<category><![CDATA[E-Bike]]></category>
+		<category><![CDATA[Fiido]]></category>
+		<category><![CDATA[shimano]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=255</guid>
+
+					<description><![CDATA[Se volete una e-bike NON italiana ma cinese a basso costo vi propongo la Fiido D11. Questo modello è uscito da pochissimo ed è ancora in crowdfunding ma sono sicuro che per la qualità e per il noto marchio verrà commercializzata (magari su GearBest). Ma passiamo alla caratteristica tecnica più accattivante: l&#8217;autonomia. Questa e-bike percorre [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://www.tomshw.it/images/images/2020/06/foto-generiche-98052.1920x1080.jpg" alt="" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://www.tomshw.it/images/images/2020/06/foto-generiche-98051.1920x1080.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Se volete una e-bike NON italiana ma cinese a basso costo vi propongo la Fiido D11. Questo modello è uscito da pochissimo ed è ancora in crowdfunding ma sono sicuro che per la qualità e per il noto marchio verrà commercializzata (magari su GearBest). Ma passiamo alla caratteristica tecnica più accattivante: l&#8217;autonomia. Questa e-bike percorre 100 km con il suo motore da 250w e 25 km/h di velocità con pedalata assistita. E&#8217; pieghevole come si può ben vedere dalle immagini e ha un cambio Shimano a 7 rapporti. Per chi deve fare corte percorrenze e multiple 100 km sono ottimi e sufficienti. Io dovrò fare l&#8217;acquisto di una e-bike e questa potrebbe essere un idea anche se non conosco ancora le dimensioni. Che ne pensate?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/10/fiido-d11/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

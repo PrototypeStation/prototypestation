@@ -1,0 +1,88 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chrome OS &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jul 2020 16:35:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Chromebook &#8211; Supporto videogiochi per Chromebook con Steam</title>
+		<link>./../../../2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/index.html</link>
+					<comments>./../../../2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2020 16:35:00 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[Chrome OS]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[steam]]></category>
+		<category><![CDATA[supporto]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/</guid>
+
+					<description><![CDATA[Steam, a quanto pare, sta lavorando al supporto per Chromebook. Steam è una piattaforma dove è possibile scaricare un infinità di videogiochi a pagamento e gratuiti. Per ora non tutti i giochi &#8220;girano&#8221; su OSX di Apple e Linux ma solo alcuni e, Steam, vorrebbe far eseguire i suoi giochi anche su Chromebook. Come è [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://multiplayer.net-cdn.it/thumbs/images/2018/08/18/steam_jpg_1400x0_q85.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>Steam</strong>, a quanto pare, sta lavorando al <strong>supporto</strong> per Chromebook. Steam è una piattaforma dove è possibile scaricare un infinità di videogiochi a pagamento e gratuiti. Per ora non tutti i giochi <strong>&#8220;girano&#8221; su OSX di Apple e Linux ma solo alcuni</strong> e, Steam, vorrebbe far eseguire i suoi giochi anche su <strong>Chromebook</strong>. Come è possibile questo? Grazie a <strong>project Crostini</strong>; l&#8217;emulatore Linux dove è possibile installare applicazioni Linux su Chromebook tramite Terminale. In questo modo sarà possibile installare Steam <strong>anche se la piattaforma Chrome OS non è ancora supportata</strong> dai videogames. Aspettiamo un uscita ufficiale del supporto Steam a Chrome OS.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neverware &#8211; CloudReady OS basato su Chromium OS</title>
+		<link>./../../../2020/06/10/neverware-cloudready-os-basato-su-chromium-os/index.html</link>
+					<comments>./../../../2020/06/10/neverware-cloudready-os-basato-su-chromium-os/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2020 14:05:38 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Chrome OS]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[Neverware]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Sistema operativo]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=250</guid>
+
+					<description><![CDATA[Oggi presentiamo un sistema operativo (OS) basato su Chromium OS e, quindi, ovviamente open-source e gratuito. Se siete interessati a provare un Chromebook e non volete comprarvi un Chromebook vi consiglio il sistema operativo CloudReady edizione Home. In sostanza questo sistema operativo a tutte le funzionalità di un Chromebook a parte il PlayStore di Google. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="./../../../wp-content/uploads/2020/06/3fe41-black-laptop-with-salesforce2b2.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Oggi presentiamo un sistema operativo (OS) basato su Chromium OS e, quindi, ovviamente open-source e gratuito. Se siete interessati a provare un Chromebook e non volete comprarvi un Chromebook vi consiglio il sistema operativo CloudReady edizione Home. In sostanza questo sistema operativo a tutte le funzionalità di un Chromebook a parte il PlayStore di Google. E&#8217; anche possibile installare il sottosistema Linux e quindi installare pacchetti/applicazioni Linux col terminale scrivendo &lt;sudo apt-get install &lt;nome pacchetto&gt;&gt; dopo aver attivato dalle impostazioni di sistema il sottosistema Linux o se no potrete cimentarvi nella ricerca di Chromium OS (l&#8217;ufficiale) per avere anche il PlayStore e quindi un mare di applicazioni. Io ho provato CloudReady e vedo che ancora per la maggiore vanno OSX e Windows anche se i sistemi operativi basati su Chromium OS sono molto più veloci e funzionano benissimo su computer datati. Vi lascio il link di <a href="https://www.neverware.com/freedownload#intro-text">CloudReady Home Edition</a> free.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/10/neverware-cloudready-os-basato-su-chromium-os/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,89 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>features &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jul 2020 16:35:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Chromebook &#8211; Supporto videogiochi per Chromebook con Steam</title>
+		<link>./../../../2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/index.html</link>
+					<comments>./../../../2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2020 16:35:00 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[Chrome OS]]></category>
+		<category><![CDATA[Chromebook]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[steam]]></category>
+		<category><![CDATA[supporto]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/</guid>
+
+					<description><![CDATA[Steam, a quanto pare, sta lavorando al supporto per Chromebook. Steam è una piattaforma dove è possibile scaricare un infinità di videogiochi a pagamento e gratuiti. Per ora non tutti i giochi &#8220;girano&#8221; su OSX di Apple e Linux ma solo alcuni e, Steam, vorrebbe far eseguire i suoi giochi anche su Chromebook. Come è [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://multiplayer.net-cdn.it/thumbs/images/2018/08/18/steam_jpg_1400x0_q85.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>Steam</strong>, a quanto pare, sta lavorando al <strong>supporto</strong> per Chromebook. Steam è una piattaforma dove è possibile scaricare un infinità di videogiochi a pagamento e gratuiti. Per ora non tutti i giochi <strong>&#8220;girano&#8221; su OSX di Apple e Linux ma solo alcuni</strong> e, Steam, vorrebbe far eseguire i suoi giochi anche su <strong>Chromebook</strong>. Come è possibile questo? Grazie a <strong>project Crostini</strong>; l&#8217;emulatore Linux dove è possibile installare applicazioni Linux su Chromebook tramite Terminale. In questo modo sarà possibile installare Steam <strong>anche se la piattaforma Chrome OS non è ancora supportata</strong> dai videogames. Aspettiamo un uscita ufficiale del supporto Steam a Chrome OS.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/02/chromebook-supporto-videogiochi-per-chromebook-con-steam/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iOS 14 Preview&#8230; Cambia tutto esteticamente ed è più stabile</title>
+		<link>./../../../2020/07/02/ios-14-preview-cambia-tutto-esteticamente-ed-e-piu-stabile/index.html</link>
+					<comments>./../../../2020/07/02/ios-14-preview-cambia-tutto-esteticamente-ed-e-piu-stabile/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2020 15:42:56 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Novità]]></category>
+		<category><![CDATA[preview]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=369</guid>
+
+					<description><![CDATA[Sono molte le features in progetto per iOS 14 e dalla Preview se ne vedono un sacco. La cosa che non mi faceva impazzire di iOS era appunto la mancanza di widget e ora è addirittura più &#8220;figo&#8221; di Android. Apple ce la sta mettendo tutta ad accaparrarsi una fetta maggiore nel mercato di smartphone [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://www.tuttotech.net/wp-content/uploads/2020/06/iOS14-iphone.png" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Sono molte le features in progetto per iOS 14 e dalla Preview se ne vedono un sacco. La cosa che non mi faceva impazzire di iOS era appunto la mancanza di widget e ora è addirittura più &#8220;figo&#8221; di Android. <strong>Apple ce la sta mettendo tutta ad accaparrarsi una fetta maggiore</strong> nel mercato di smartphone e tablet. Vi dico alcune delle features: come stavo dicendo prima i <strong>Widget sulla Home</strong>, <strong>Siri</strong> migliorato, <strong>Maps</strong> ridisegnato, <strong>Messaggi raggruppati e visibili in diretta</strong> senza dover entrare nella conversazione con l&#8217;aggiunta delle &#8220;faccine&#8221; famosissime di Iphone e gruppi di applicazioni in cartelle rinominate e ordinate automaticamente (questa funzione si chiama <strong>App Gallery</strong>). Per l&#8217;elenco completo delle features in lingua inglese vi lascio <a href="https://www.apple.com/ios/ios-14-preview/">il link qui di Apple</a>. Io non possiedo un Iphone ma ho già visto che molti hanno già installato la beta (credo con file di iOS e iTunes). Fatemi sapere se c&#8217;è qualche kicca!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/02/ios-14-preview-cambia-tutto-esteticamente-ed-e-piu-stabile/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

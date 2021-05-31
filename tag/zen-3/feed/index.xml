@@ -1,0 +1,63 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zen 3 &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Oct 2020 14:22:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Next-gen per AMD con i suoi processori AMDRizen 5000 series</title>
+		<link>./../../../2020/10/09/next-gen-per-amd-con-i-suoi-processori-amdrizen-5000-series/index.html</link>
+					<comments>./../../../2020/10/09/next-gen-per-amd-con-i-suoi-processori-amdrizen-5000-series/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2020 14:22:26 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[5000]]></category>
+		<category><![CDATA[5000 family]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[data uscita]]></category>
+		<category><![CDATA[new]]></category>
+		<category><![CDATA[nuova uscita]]></category>
+		<category><![CDATA[nuovo]]></category>
+		<category><![CDATA[processore]]></category>
+		<category><![CDATA[ryzen]]></category>
+		<category><![CDATA[uscita]]></category>
+		<category><![CDATA[zen 3]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=467</guid>
+
+					<description><![CDATA[L&#8217;8 ottobre 2020 è stata la data di presentazione dei Zen 3, nuovi processori appositi per il gaming. La famiglia è la Ryzen 5000 con molte features per la next-gen. Alcuni degli esempi sono la Lower Latency per una significativa accelerazione per i giochi, l&#8217;accesso diretto alla L3 Cache che riduce la latenza della memoria [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Welcome the all-new <a href="https://twitter.com/AMDRyzen?ref_src=twsrc%5Etfw">@AMDRyzen</a> 5000 Series Desktop Processors.<br><br>Built on the “Zen 3” architecture, the new desktop lineup delivers across-the-board leadership performance for gamers and content creators.</p>&mdash; AMD (@AMD) <a href="https://twitter.com/AMD/status/1314249287191203843?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;8 ottobre 2020 è stata la data di presentazione dei Zen 3, nuovi processori appositi per il gaming. La famiglia è la Ryzen 5000 con molte features per la next-gen. Alcuni degli esempi sono la Lower Latency per una significativa accelerazione per i giochi, l&#8217;accesso diretto alla L3 Cache che riduce la latenza della memoria durante il gioco e la IPC Uplift per una performance migliore nelle app. Vi lascio il Tweet di AMD con collegamento al sito <a href="https://www.amd.com/en/processors/ryzen">AMDRyzen</a> dove sono presentati tutti i processori Ryzen 5000 series con i vari modelli e le specifiche tecniche.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/09/next-gen-per-amd-con-i-suoi-processori-amdrizen-5000-series/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

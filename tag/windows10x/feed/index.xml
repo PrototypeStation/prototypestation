@@ -1,0 +1,57 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows10X &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 May 2020 14:41:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Microsoft &#8211; Surface Duo</title>
+		<link>./../../../2020/05/19/microsoft-surface-duo/index.html</link>
+					<comments>./../../../2020/05/19/microsoft-surface-duo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 19 May 2020 14:41:38 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Surface]]></category>
+		<category><![CDATA[Windows10X]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=160</guid>
+
+					<description><![CDATA[Ecco Surface Duo tablet dual screen e Surface Neo smartphone dual screen. La data di uscita ipotizzata da Microsoft dovrebbe essere per l&#8217;estate 2020. Ma passiamo alle specifiche; Surface Duo dovrebbe uscire con Android 10 con un futuro aggiornamento all&#8217;11, fotocamera singola con 11 MP nel display destro, SoC Qualcomm&#160;Snapdragon 855, 6GB di RAM, 64 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Introducing Surface Duo" width="1170" height="658" src="https://www.youtube.com/embed/kU78s9ExFFA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Ecco Surface Duo tablet dual screen e Surface Neo smartphone dual screen. La data di uscita ipotizzata da Microsoft dovrebbe essere per l&#8217;estate 2020. Ma passiamo alle specifiche; Surface Duo dovrebbe uscire con Android 10 con un futuro aggiornamento all&#8217;11, fotocamera singola con 11 MP nel display destro, SoC Qualcomm&nbsp;Snapdragon 855, 6GB di RAM, 64 GB o 256 GB di memoria interna, batteria da&nbsp;3460 mAh e connettore USB-C. Finalmente una rivalsa di Microsoft dopo il flop di Windows Phone OS. Ovviamente con Android non dovrebbero esserci problemi con la mancanza di app. Sono curioso dell&#8217;OS Android e di tutte le features che Microsoft porterà all&#8217;interno di Surface Duo e Neo Android. E se avete qualche news sul sistema operativo Windows 10x creato per dispositivi a due schermi lasciatemelo nei commenti.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/05/19/microsoft-surface-duo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

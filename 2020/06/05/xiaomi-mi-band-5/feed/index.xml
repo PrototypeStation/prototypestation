@@ -1,0 +1,52 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Xiaomi &#8211; Mi Band 5	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Jun 2020 17:38:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: prototypestation		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 17:38:48 +0000</pubDate>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=215#comment-3</guid>
+
+					<description><![CDATA[Quasi equiparabile ad un Android Wear!]]></description>
+			<content:encoded><![CDATA[<p>Quasi equiparabile ad un Android Wear!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Francy		</title>
+		<link>./../index.html#comment-2</link>
+
+		<dc:creator><![CDATA[Francy]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 19:25:33 +0000</pubDate>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=215#comment-2</guid>
+
+					<description><![CDATA[Recensione utile, io ho il 4 e già lo trovo un ottimo prodotto. Le features descritte sono sicuramente interessanti.]]></description>
+			<content:encoded><![CDATA[<p>Recensione utile, io ho il 4 e già lo trovo un ottimo prodotto. Le features descritte sono sicuramente interessanti.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

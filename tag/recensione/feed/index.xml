@@ -1,0 +1,63 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recensione &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jun 2020 15:19:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>PC basso costo Lenovo Ideapad 330-15AST</title>
+		<link>./../../../2020/06/22/pc-basso-costo-lenovo-ideapad-330-15ast/index.html</link>
+					<comments>./../../../2020/06/22/pc-basso-costo-lenovo-ideapad-330-15ast/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2020 15:19:03 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[15AST]]></category>
+		<category><![CDATA[330]]></category>
+		<category><![CDATA[ideapad]]></category>
+		<category><![CDATA[Lenovo]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Recensione]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=326</guid>
+
+					<description><![CDATA[Questo computer monta un AMD A6-9225 con scheda grafica Radeon R4 in un unico pezzo. HDD da 1TB. Ram 8GB con schermo HD. Il driver della scheda grafica è scaricabile da AMD, il sito ufficiale ovviamente, perchè non è incluso nel sistema operativo Windows 10 Home. Con questo driver i settaggi dei videogiochi saranno automatici [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - PC basso costo Lenovo Ideapad 330-15AST" width="1170" height="658" src="https://www.youtube.com/embed/vwkBKsPw0sg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://www.notebookcheck.it/uploads/tx_nbc2/02_IDEAPAD_330_3.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Questo computer monta un <strong>AMD A6-9225</strong> con scheda grafica <strong>Radeon R4</strong> in un unico pezzo. HDD da<strong> 1TB</strong>. Ram <strong>8GB</strong> con <strong>schermo HD. Il driver</strong> della scheda grafica è scaricabile da <strong>AMD</strong>, il sito ufficiale ovviamente, perchè non è incluso nel sistema operativo <strong>Windows 10 Home</strong>. Con questo driver i <strong>settaggi dei videogiochi saranno automatici</strong> una volta riconosciuto il gioco. <strong>Il caricabatterie</strong> è molto piccolo; più o meno grande quanto un <strong>power-bank.</strong> Il display è un<strong> 15.6&#8221;.</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/22/pc-basso-costo-lenovo-ideapad-330-15ast/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

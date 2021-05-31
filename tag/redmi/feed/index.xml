@@ -1,0 +1,59 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Redmi &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Mar 2021 12:07:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>È arrivato l&#8217;aggiornamento della MIUI per Redmi e Mi Phone v.12.0.9.0</title>
+		<link>./../../../2021/03/18/e-arrivato-laggiornamento-della-miui-per-redmi-e-mi-phone-v-12-0-9-0/index.html</link>
+					<comments>./../../../2021/03/18/e-arrivato-laggiornamento-della-miui-per-redmi-e-mi-phone-v-12-0-9-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2021 12:07:44 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Aggiornamento]]></category>
+		<category><![CDATA[Global]]></category>
+		<category><![CDATA[mi]]></category>
+		<category><![CDATA[miui]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[OTA]]></category>
+		<category><![CDATA[Redmi]]></category>
+		<category><![CDATA[Sistema operativo]]></category>
+		<category><![CDATA[xiaomi]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2021/03/18/e-arrivato-laggiornamento-della-miui-per-redmi-e-mi-phone-v-12-0-9-0/</guid>
+
+					<description><![CDATA[Stamattina mi sono svegliato con una piacevole sorpresa per il mio smartphone Redmi Note 9. Ovvero un aggiornamento per il sistema operativo versione Global. Stiamo parlando della MIUI 12.0.9.0. Una piacevole sorpresa che renderà il vostro smartphone più immersivo visto che rimuove la barra delle gesture e da più spazio allo schermo tenendo comunque il [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Stamattina mi sono svegliato con una piacevole sorpresa per il mio smartphone Redmi Note 9. Ovvero un aggiornamento per il sistema operativo versione Global. Stiamo parlando della MIUI 12.0.9.0. Una piacevole sorpresa che renderà il vostro smartphone più immersivo visto che rimuove la barra delle gesture e da più spazio allo schermo tenendo comunque il settaggio delle gesture per la navigazione. Un ottima versione in attesa che esca dalla beta la MIUI v.12.5. Vi lascio in oltre il changelog con tutte le novità di questa MIUI nello screenshot!</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1080" height="2340" src="./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater.jpg?w=473" alt="" class="wp-image-549" srcset="./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater.jpg 1080w, ./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater-138x300.jpg 138w, ./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater-473x1024.jpg 473w, ./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater-768x1664.jpg 768w, ./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater-709x1536.jpg 709w, ./../../../wp-content/uploads/2021/03/screenshot_2021-03-18-13-06-32-771_com.android.updater-945x2048.jpg 945w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/03/18/e-arrivato-laggiornamento-della-miui-per-redmi-e-mi-phone-v-12-0-9-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

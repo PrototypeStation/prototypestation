@@ -1,0 +1,113 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows10 &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Dec 2020 14:04:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bloatware_Remover per sbarazzarsi definitivamente da Cortana e altre app</title>
+		<link>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/index.html</link>
+					<comments>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 14:04:16 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Bloatware]]></category>
+		<category><![CDATA[preinstallati]]></category>
+		<category><![CDATA[Programmi]]></category>
+		<category><![CDATA[remover]]></category>
+		<category><![CDATA[rimozione]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/</guid>
+
+					<description><![CDATA[Ho sviluppato nei mesi scorsi un app per Windows 10. Premetto che non sono responsabile di eventuali malfunzionamenti dopo la disinstallazione di bloatware (programmi preinstallati in Windows 10) comunque questa app scritta in Python 3.x (quindi per l&#8217;esecuzione di questo programma necessita nel PC installato Python 3.x) ti darà la possibilità di disinstallare programmi, come [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ho sviluppato nei mesi scorsi un app per Windows 10. Premetto che non sono responsabile di eventuali malfunzionamenti dopo la disinstallazione di bloatware (programmi preinstallati in Windows 10) comunque questa app scritta in Python 3.x (quindi per l&#8217;esecuzione di questo programma necessita nel PC installato Python 3.x) ti darà la possibilità di disinstallare programmi, come Cortana, che non sono disinstallabili da pannello di controllo o clickando con il pulsante destro sull&#8217;app per la disinstallazione. Vi lascio il link GitHub dove troverete un file readme.md da leggere assolutamente con qualsiasi programma text editor o anche con un IDE o direttamente in fondo alla pagina GitHub e il programma scritto in Python(*.py). Il link di tutti i miei programmi <a href="https://github.com/FabioFabRob7">é il seguente</a> invece per il repository del <a href="https://github.com/FabioFabRob7/Bloatware_Remover">Bloatware_Remover é al link seguente</a> dove potrete scaricare il file .zip con tutto il necessario. Ricordo che rimuovere i file preinstallati di Windows 10 diminuisce le funzionalità ma accelera tutti i caricamenti del sistema operativo all&#8217;avvio e nel caso rivorreste le vostre app di sistema vi basterà riscaricare dal Microsoft Store. Per qualsiasi ulteriore informazione non esitate a chiedermi nei commenti o su GitHub. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guida aggiornamento &#8211; Windows 10, May 2020 v.2004</title>
+		<link>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html</link>
+					<comments>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 14:00:56 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Aggiornamento]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[May 2020]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=223</guid>
+
+					<description><![CDATA[Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. Aprite questo link che vi porterà alla pagina ufficiale di Microsoft e cliccate su &#60;Aggiorna ora&#62; nella sezione &#60;Aggiornamento di Windows 10 (maggio 2020)&#62;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1348" height="654" src="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png?w=1024" alt="" class="wp-image-226" srcset="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png 1348w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-300x146.png 300w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-1024x497.png 1024w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-768x373.png 768w" sizes="(max-width: 1348px) 100vw, 1348px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. <a href="https://www.microsoft.com/it-it/software-download/windows10">Aprite questo link</a> che vi porterà alla pagina ufficiale di Microsoft e cliccate su &lt;Aggiorna ora&gt; nella sezione &lt;Aggiornamento di Windows 10 (maggio 2020)&gt;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il programma di aggiornamento che farà preventivamente un check-up della CPU, della memoria RAM e dell&#8217; hard disk. Cliccate sempre avanti se il programma trova il PC idoneo. In seguito scaricherà i file per l&#8217;installazione e preparerà il PC all&#8217;aggiornamento. Subito dopo cliccate su &lt;Riavvia ora&gt; e, dopo l&#8217;aggiornamento effettivo, controllate dalle impostazioni se siete passati alla versione 2004 andando su Informazioni PC e il gioco è fatto. Comunque ho notato qualche differenza nelle prestazioni e sono molto contento.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Huawei &#8211; Matebook X Pro (2020)</title>
+		<link>./../../../2020/05/15/huawei-matebook-x-pro-2020/index.html</link>
+					<comments>./../../../2020/05/15/huawei-matebook-x-pro-2020/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 16:05:03 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Huawei]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=157</guid>
+
+					<description><![CDATA[Questo è il nuovo notebook di Huawei. I computer Huawei sono sempre i migliori in quanto a durata batteria infatti questo PC ha una durata dalle 11 alle 15 ore di utilizzo in base a cosa stiamo facendo. Dotato di SSD (hard-disk a stato solido) per un avvio molto veloce, Processore Intel® Core™ i7-10510U di [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-x-pro-2020/img/pc/huawei-matebook-x-pro-pc@2x.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Questo è il nuovo notebook di Huawei. I computer Huawei sono sempre i migliori in quanto a durata batteria infatti questo PC ha una durata dalle 11 alle 15 ore di utilizzo in base a cosa stiamo facendo. Dotato di SSD (hard-disk a stato solido) per un avvio molto  veloce, Processore Intel® Core<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i7-10510U di decima generazione e una scheda grafica NVIDIA® GeForce® MX250. Il peso è di soli 1,33 kg abbastanza leggero e ultra sottile. Ma passiamo alle cose più interessanti che non le solite specifiche. Abbiamo una webcam a scomparsa sotto il pulsante Function ottima per coloro che hanno un grande riguardo per la privacy. E per un accesso più sicuro al pc è incluso il riconoscimento dell&#8217;impronta digitale sul pulsante di accensione. Il sistema operativo è un Windows 10 Home e la risoluzione delle immagini è di 3000&#215;2000 (3k). Be bellissimo ma il prezzo? Sul sito di Huawei lo troviamo già scontato di 200€ era 1.999,00€, adesso 1.799,00€. Un po&#8217; costoso ma rivoluzionario a parer mio.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/05/15/huawei-matebook-x-pro-2020/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

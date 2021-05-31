@@ -1,0 +1,61 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spagna &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Jun 2020 15:29:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>CUCA Bike &#8211; La bici scooter spagnola</title>
+		<link>./../../../2020/06/04/cuca-bike-la-bici-scooter-spagnola/index.html</link>
+					<comments>./../../../2020/06/04/cuca-bike-la-bici-scooter-spagnola/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2020 15:29:49 +0000</pubDate>
+				<category><![CDATA[GREEN]]></category>
+		<category><![CDATA[cuca]]></category>
+		<category><![CDATA[E-Bike]]></category>
+		<category><![CDATA[ebike]]></category>
+		<category><![CDATA[Scooter]]></category>
+		<category><![CDATA[Spagna]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=210</guid>
+
+					<description><![CDATA[Se ne vedono tante di biciclette scooter in giro ma la maggior parte sono illegali perchè funzionano senza la pedalata assistita ma con l&#8217;acceleratore. Questa &#8220;CUCA&#8221; è invece una delle poche che ho visto sul web con le caratteristiche e i certificati idonei per circolare nelle strade italiane nonostante CUCA Bike sia spagnola. E&#8217; una [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="CUCA BIKE ® LA BICICLETA ELECTRICA DEL FUTURO" width="1170" height="658" src="https://www.youtube.com/embed/3obLXoEFjos?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="401" src="./../../../wp-content/uploads/2020/06/img_5522_600x600.jpeg?w=600" alt="" class="wp-image-212" srcset="./../../../wp-content/uploads/2020/06/img_5522_600x600.jpeg 600w, ./../../../wp-content/uploads/2020/06/img_5522_600x600-300x201.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Se ne vedono tante di biciclette scooter in giro ma la maggior parte sono illegali perchè funzionano senza la pedalata assistita ma con l&#8217;acceleratore. Questa &#8220;CUCA&#8221; è invece una delle poche che ho visto sul web con le caratteristiche e i certificati idonei per circolare nelle strade italiane nonostante <a href="https://cucabike.com/">CUCA Bike</a> sia spagnola. E&#8217; una bicicletta elettrica a tutti gli effetti perchè è effettivamente una EPAC (Electric Pedal Assist Cycle). Raggiunge i  25 km/h con il motore Brushless sulla ruota posteriore e una batteria che varia dai 40 ai 120 km a seconda della tipologia di batteria. Ha tutti gli accessori di un motorino come ad esempio l&#8217;antifurto e il blocco ruota ma rimane una e-bike. Il prezzo varia dai 1.699,00 € ai 2.299,00 € a seconda della batteria che monta&#8230; Un vero gioiellino. A me piace molto e in Spagna ha già preso piede anche per il solo noleggio per turisti. Fantastico</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/04/cuca-bike-la-bici-scooter-spagnola/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

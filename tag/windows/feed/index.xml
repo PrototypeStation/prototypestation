@@ -1,0 +1,235 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 18 Jan 2021 18:05:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Avete uno scanner o una foto e volete estrapolare il testo&#8230; USA IMG_to_TEXT.py</title>
+		<link>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/index.html</link>
+					<comments>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 18:05:54 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[img]]></category>
+		<category><![CDATA[program]]></category>
+		<category><![CDATA[Programma]]></category>
+		<category><![CDATA[scanner]]></category>
+		<category><![CDATA[scanner documento]]></category>
+		<category><![CDATA[scanner to text]]></category>
+		<category><![CDATA[testo]]></category>
+		<category><![CDATA[text]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows app]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=531</guid>
+
+					<description><![CDATA[Ebbene sì. Purtroppo non c&#8217;è un modo per gli scanner di estrapolare e di creare un documento in formato .txt o .doc. E invece una possibilità un po&#8217; macchinosa c&#8217;è. Utilizzando IMG_to_TEXT.py! Il programma richiede python3. Le istruzioni sono sul file README.md e vi consiglio di leggerlo attentamente per il corretto funzionamento dell&#8217;app. Dopo aver [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ebbene sì. Purtroppo non c&#8217;è un modo per gli scanner di estrapolare e di creare un documento in formato .txt o .doc. E invece una possibilità un po&#8217; macchinosa c&#8217;è. Utilizzando IMG_to_TEXT.py! Il programma richiede python3. Le istruzioni sono sul file README.md e vi consiglio di leggerlo attentamente per il corretto funzionamento dell&#8217;app. Dopo aver installato qualche libreria tramite pip (tutto scritto dettagliatamente nel file README.md), si potrà avviare l&#8217;applicazione tramite prompt dei comandi o CMD o PowerShell. Si aprirà una pagina web dove installare il machine learning (non sto a spiegare cos&#8217;è, andate tranquilli per l&#8217;installazione) e &#8220;il motore&#8221; dell&#8217;app sarà pronto in pochi passaggi. In seguito inserite la directory dell&#8217;immagine scannerizzata e vi verrà visualizzato tutto il testo nel CMD o PowerShell. Vi basterà fare un copia e incolla su un nuovo documento Word e il gioco è fatto. <a href="https://github.com/FabioFabRob7/IMG_to_TEXT">Vi lascio il link GitHub</a> con tutti i file disponibili al download</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bloatware_Remover per sbarazzarsi definitivamente da Cortana e altre app</title>
+		<link>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/index.html</link>
+					<comments>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 14:04:16 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Bloatware]]></category>
+		<category><![CDATA[preinstallati]]></category>
+		<category><![CDATA[Programmi]]></category>
+		<category><![CDATA[remover]]></category>
+		<category><![CDATA[rimozione]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/</guid>
+
+					<description><![CDATA[Ho sviluppato nei mesi scorsi un app per Windows 10. Premetto che non sono responsabile di eventuali malfunzionamenti dopo la disinstallazione di bloatware (programmi preinstallati in Windows 10) comunque questa app scritta in Python 3.x (quindi per l&#8217;esecuzione di questo programma necessita nel PC installato Python 3.x) ti darà la possibilità di disinstallare programmi, come [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ho sviluppato nei mesi scorsi un app per Windows 10. Premetto che non sono responsabile di eventuali malfunzionamenti dopo la disinstallazione di bloatware (programmi preinstallati in Windows 10) comunque questa app scritta in Python 3.x (quindi per l&#8217;esecuzione di questo programma necessita nel PC installato Python 3.x) ti darà la possibilità di disinstallare programmi, come Cortana, che non sono disinstallabili da pannello di controllo o clickando con il pulsante destro sull&#8217;app per la disinstallazione. Vi lascio il link GitHub dove troverete un file readme.md da leggere assolutamente con qualsiasi programma text editor o anche con un IDE o direttamente in fondo alla pagina GitHub e il programma scritto in Python(*.py). Il link di tutti i miei programmi <a href="https://github.com/FabioFabRob7">é il seguente</a> invece per il repository del <a href="https://github.com/FabioFabRob7/Bloatware_Remover">Bloatware_Remover é al link seguente</a> dove potrete scaricare il file .zip con tutto il necessario. Ricordo che rimuovere i file preinstallati di Windows 10 diminuisce le funzionalità ma accelera tutti i caricamenti del sistema operativo all&#8217;avvio e nel caso rivorreste le vostre app di sistema vi basterà riscaricare dal Microsoft Store. Per qualsiasi ulteriore informazione non esitate a chiedermi nei commenti o su GitHub. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Huawei temerà il nuovo Microsoft Surface Laptop Go uscito proprio oggi?</title>
+		<link>./../../../2020/10/04/huawei-temera-il-nuovo-microsoft-surface-laptop-go-uscito-proprio-oggi/index.html</link>
+					<comments>./../../../2020/10/04/huawei-temera-il-nuovo-microsoft-surface-laptop-go-uscito-proprio-oggi/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2020 13:23:56 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Laptop go]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[new]]></category>
+		<category><![CDATA[nuova uscita]]></category>
+		<category><![CDATA[s]]></category>
+		<category><![CDATA[shop]]></category>
+		<category><![CDATA[Surface]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=437</guid>
+
+					<description><![CDATA[Secondo me Microsoft è stato sempre il computer per eccellenza e stavolta ha anche un hardware. Conosciamo ormai tutti la gamma Surface e finalmente arrivano laptop &#8220;GOOOO&#8221;. Questi notebook sono, come prezzo, ottimi e, finalmente per molti utenti, Microsoft lascia la possibilità di scegliere il sistema operativo. Stiamo parlando del Surface Laptop Go. Infatti monta [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We’d like you to meet the newest members of the Surface family. Say hello to Surface Laptop Go and Surface Pro X. <a href="https://twitter.com/hashtag/Originalbydesign?src=hash&amp;ref_src=twsrc%5Etfw">#Originalbydesign</a> <a href="https://t.co/WCgPNygP5G">https://t.co/WCgPNygP5G</a> <a href="https://t.co/66Kimdn0kC">pic.twitter.com/66Kimdn0kC</a></p>&mdash; Microsoft Surface (@surface) <a href="https://twitter.com/surface/status/1311653208373309442?ref_src=twsrc%5Etfw">October 1, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Secondo me Microsoft è stato sempre il computer per eccellenza e stavolta ha anche un hardware. Conosciamo ormai tutti la gamma Surface e finalmente arrivano laptop &#8220;GOOOO&#8221;. Questi notebook sono, come prezzo, ottimi e, finalmente per molti utenti, Microsoft lascia la possibilità di scegliere il sistema operativo. Stiamo parlando del Surface Laptop Go. Infatti monta un Windows Home configurato come S. Spieghiamo cos&#8217;è Windows S: è un sistema operativo Windows con la possibilità di installare solo programmi targati Microsoft così da ovviare al problema di virus&#8230; il problema sono le applicazioni di terze parti non installabili (non ufficiali Microsoft); una grande fetta e funzionalità di Microsoft cancellata ma non per sempre. Infatti per questo PC, da quello che ho capito, dispone di un Windows Home con la possibilità di scegliere se utilizzare la modalità S o no. Ma passiamo a prezzo e hardware. Il PC in questione dispone di un touchpad ad alta precisione e un touchscreen ottimo per coloro che devono fare un lavoro col mouse di precisione (touchpad) o disegni (touchscreen). Dispone anche del log in tramite impronta digitale (Windows Hello) sul pulsante di accensione che per il prezzo che vi svelerò in seguito è perfetto. Ricarica rapida con una batteria di 13 ore massimo a piena carica, webcam HD, schermo da 12,4&#8221; e un processore i5 di 10th generazione. La memoria può essere da 64GB + 4GB Ram, 128GB + 8GB Ram o 256GB + 8GB Ram &#8216;ovviamente più potente più costoso&#8217;; infatti il prezzo parte da 649€. Secondo voi questo nuovo notebook è all&#8217;apice del suo successo o c&#8217;è ancora qualcosa da migliorare? <a href="https://www.microsoft.com/it-it/p/surface-laptop-go/94fc0bdgq7wv?activetab=pivot:overviewtab">Vi lascio il link</a> se pensiate che Microsoft sia all&#8217;apice del suo successo!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/04/huawei-temera-il-nuovo-microsoft-surface-laptop-go-uscito-proprio-oggi/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TUTORIAL &#8211; WSL sottosistema Linux su Windows (Bash) tra cui Kali Linux, Ubuntu e SUSE</title>
+		<link>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/index.html</link>
+					<comments>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2020 16:38:11 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows subystem linux]]></category>
+		<category><![CDATA[wsl]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=385</guid>
+
+					<description><![CDATA[Linux ha forse una delle bash e shell più comode al mondo. Si possono installare una infinità di programmi e librerie da terminale&#8230; E Windows ha un infinità di programmi installabili col formato .exe ma che ne dite di avere entrambe? Qui sotto vi lascio la guida di come installare Ubuntu IN Windows con un [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - WSL sottosistema Linux su Windows tra cui Kali Linux, Ubuntu e SUSE" width="1170" height="658" src="https://www.youtube.com/embed/ltgV9hZFyRs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Linux ha forse una delle bash e shell più comode al mondo. Si possono installare una infinità di programmi e librerie da terminale&#8230; E Windows ha un infinità di programmi installabili col formato .exe ma che ne dite di avere entrambe? Qui sotto vi lascio la guida di come installare Ubuntu IN Windows con un app scaricabile dal Windows Store</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">ISTRUZIONI:</p>
+
+
+
+<ul><li>APRITE POWER SHELL DI WINDOWS COME AMMINISTRATORE</li><li>DIGITATE </li></ul>
+
+
+
+<pre class="wp-block-syntaxhighlighter-code">dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart</pre>
+
+
+
+<ul><li> ATTENDETE IL COMPLETAMENTO E RIAVVIATE IL PC. CI SARA&#8217; UN AGGIORNAMENTO, NON PREOCCUPATEVI</li><li>RIAVVIATO IL PC ENTRATE IN WINDOWS STORE APP E SCARICATE UBUNTU APP</li><li>AVVIATE E ATTENDETE L&#8217;INSTALLAZIONE</li><li>ECCO IL VOSTRO TERMINALE LINUX SU WINDOWS</li></ul>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Docs: <a href="https://docs.microsoft.com/it-it/windows/wsl/install-win10" target="_blank" rel="noreferrer noopener">https://docs.microsoft.com/it-it/windows/wsl/install-win10</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/07/wsl-sottosistema-linux-su-windows-bash-tra-cui-kali-linux-ubuntu-e-suse/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guida aggiornamento &#8211; Windows 10, May 2020 v.2004</title>
+		<link>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html</link>
+					<comments>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 14:00:56 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Aggiornamento]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[May 2020]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=223</guid>
+
+					<description><![CDATA[Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. Aprite questo link che vi porterà alla pagina ufficiale di Microsoft e cliccate su &#60;Aggiorna ora&#62; nella sezione &#60;Aggiornamento di Windows 10 (maggio 2020)&#62;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1348" height="654" src="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png?w=1024" alt="" class="wp-image-226" srcset="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png 1348w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-300x146.png 300w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-1024x497.png 1024w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-768x373.png 768w" sizes="(max-width: 1348px) 100vw, 1348px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. <a href="https://www.microsoft.com/it-it/software-download/windows10">Aprite questo link</a> che vi porterà alla pagina ufficiale di Microsoft e cliccate su &lt;Aggiorna ora&gt; nella sezione &lt;Aggiornamento di Windows 10 (maggio 2020)&gt;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il programma di aggiornamento che farà preventivamente un check-up della CPU, della memoria RAM e dell&#8217; hard disk. Cliccate sempre avanti se il programma trova il PC idoneo. In seguito scaricherà i file per l&#8217;installazione e preparerà il PC all&#8217;aggiornamento. Subito dopo cliccate su &lt;Riavvia ora&gt; e, dopo l&#8217;aggiornamento effettivo, controllate dalle impostazioni se siete passati alla versione 2004 andando su Informazioni PC e il gioco è fatto. Comunque ho notato qualche differenza nelle prestazioni e sono molto contento.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Huawei &#8211; Matebook X Pro (2020)</title>
+		<link>./../../../2020/05/15/huawei-matebook-x-pro-2020/index.html</link>
+					<comments>./../../../2020/05/15/huawei-matebook-x-pro-2020/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 16:05:03 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Huawei]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=157</guid>
+
+					<description><![CDATA[Questo è il nuovo notebook di Huawei. I computer Huawei sono sempre i migliori in quanto a durata batteria infatti questo PC ha una durata dalle 11 alle 15 ore di utilizzo in base a cosa stiamo facendo. Dotato di SSD (hard-disk a stato solido) per un avvio molto veloce, Processore Intel® Core™ i7-10510U di [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-x-pro-2020/img/pc/huawei-matebook-x-pro-pc@2x.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Questo è il nuovo notebook di Huawei. I computer Huawei sono sempre i migliori in quanto a durata batteria infatti questo PC ha una durata dalle 11 alle 15 ore di utilizzo in base a cosa stiamo facendo. Dotato di SSD (hard-disk a stato solido) per un avvio molto  veloce, Processore Intel® Core<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i7-10510U di decima generazione e una scheda grafica NVIDIA® GeForce® MX250. Il peso è di soli 1,33 kg abbastanza leggero e ultra sottile. Ma passiamo alle cose più interessanti che non le solite specifiche. Abbiamo una webcam a scomparsa sotto il pulsante Function ottima per coloro che hanno un grande riguardo per la privacy. E per un accesso più sicuro al pc è incluso il riconoscimento dell&#8217;impronta digitale sul pulsante di accensione. Il sistema operativo è un Windows 10 Home e la risoluzione delle immagini è di 3000&#215;2000 (3k). Be bellissimo ma il prezzo? Sul sito di Huawei lo troviamo già scontato di 200€ era 1.999,00€, adesso 1.799,00€. Un po&#8217; costoso ma rivoluzionario a parer mio.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/05/15/huawei-matebook-x-pro-2020/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

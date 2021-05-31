@@ -1,0 +1,166 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Github &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 02 Feb 2021 15:36:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Chi non vorrebbe un Browser web per la propria PowerShell, CMD, o Terminale&#8230; IO CE L&#8217;HO!</title>
+		<link>./../../../2021/02/02/chi-non-vorrebbe-un-browser-web-per-la-propria-powershell-cmd-o-terminale-io-ce-lho/index.html</link>
+					<comments>./../../../2021/02/02/chi-non-vorrebbe-un-browser-web-per-la-propria-powershell-cmd-o-terminale-io-ce-lho/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2021 15:36:13 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[alternative]]></category>
+		<category><![CDATA[alternatives]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[dei comandi]]></category>
+		<category><![CDATA[Edge]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[powershell]]></category>
+		<category><![CDATA[program]]></category>
+		<category><![CDATA[Programma]]></category>
+		<category><![CDATA[Programmi]]></category>
+		<category><![CDATA[prompt]]></category>
+		<category><![CDATA[shell]]></category>
+		<category><![CDATA[terminale]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=542</guid>
+
+					<description><![CDATA[Ho sviluppato un interessante applicazione per prompt dei comandi o terminale in cui si avrà la possibilità di navigare su una pagina web e spostarsi tra i vari link della pagina. L&#8217;app è sviluppata in Python quindi dovrete installato come scritto nel file README.md di GitHub. Vi verrà richiesto, una volta avviata l&#8217;applicazione, sempre sul [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ho sviluppato un interessante applicazione per <strong>prompt dei comandi o terminale</strong> in cui si avrà la <strong>possibilità di navigare su una pagina web e spostarsi tra i vari link della pagina</strong>. L&#8217;app è sviluppata in<strong> Python</strong> quindi dovrete installato come scritto nel file README.md di <strong>GitHub</strong>. Vi verrà richiesto, una volta avviata l&#8217;applicazione, sempre sul vostro prompt dei comandi, di inserire un link di un qualsiasi sito web, <strong>proprio come cercate i link su Chrome, Edge o Firefox</strong>. Ovviamente e purtroppo avrete bisogno di una <strong>connessione internet</strong> e, una volta scritto il link e premuto invio, vi verrà interamente su display visualizzata la intera pagina (per gli informatici tutto la pagina contenuta nel &lt;body&gt;) e, in fondo,<strong> i vari link dell&#8217;intera pagina con la possibilità di selezione numerica</strong>(ES. 1 o 7, quello che volete). Purtroppo non c&#8217;è la possibilità di immettere testo ma solo di visualizzare o spostarsi nei link(sempre per gli informatici &lt;a href&gt;). Vi ricordo pure di installare le<strong> librerie necessarie </strong>(comandi e librerie sempre su GitHub) tramite <strong>pip</strong>, l&#8217;app .exe contenuta nel pacchetto Python per l&#8217;installazione di librerie. <a rel="noreferrer noopener" href="https://github.com/FabioFabRob7/Browser_WEB_for_CMD" target="_blank">Vi lascio il link di GitHub con il programma e le istruzioni per l&#8217;uso</a>. <strong>Se siete curiosi o se siete alle prime armi con il prompt dei comandi </strong>per passare un po&#8217; di tempo divertendosi e imparando qualcosa di nuovo vi consiglio di seguire <strong>la guida</strong> per il corretto funzionamento dell&#8217;app.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/02/02/chi-non-vorrebbe-un-browser-web-per-la-propria-powershell-cmd-o-terminale-io-ce-lho/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Avete uno scanner o una foto e volete estrapolare il testo&#8230; USA IMG_to_TEXT.py</title>
+		<link>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/index.html</link>
+					<comments>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 18:05:54 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[img]]></category>
+		<category><![CDATA[program]]></category>
+		<category><![CDATA[Programma]]></category>
+		<category><![CDATA[scanner]]></category>
+		<category><![CDATA[scanner documento]]></category>
+		<category><![CDATA[scanner to text]]></category>
+		<category><![CDATA[testo]]></category>
+		<category><![CDATA[text]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[windows app]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=531</guid>
+
+					<description><![CDATA[Ebbene sì. Purtroppo non c&#8217;è un modo per gli scanner di estrapolare e di creare un documento in formato .txt o .doc. E invece una possibilità un po&#8217; macchinosa c&#8217;è. Utilizzando IMG_to_TEXT.py! Il programma richiede python3. Le istruzioni sono sul file README.md e vi consiglio di leggerlo attentamente per il corretto funzionamento dell&#8217;app. Dopo aver [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ebbene sì. Purtroppo non c&#8217;è un modo per gli scanner di estrapolare e di creare un documento in formato .txt o .doc. E invece una possibilità un po&#8217; macchinosa c&#8217;è. Utilizzando IMG_to_TEXT.py! Il programma richiede python3. Le istruzioni sono sul file README.md e vi consiglio di leggerlo attentamente per il corretto funzionamento dell&#8217;app. Dopo aver installato qualche libreria tramite pip (tutto scritto dettagliatamente nel file README.md), si potrà avviare l&#8217;applicazione tramite prompt dei comandi o CMD o PowerShell. Si aprirà una pagina web dove installare il machine learning (non sto a spiegare cos&#8217;è, andate tranquilli per l&#8217;installazione) e &#8220;il motore&#8221; dell&#8217;app sarà pronto in pochi passaggi. In seguito inserite la directory dell&#8217;immagine scannerizzata e vi verrà visualizzato tutto il testo nel CMD o PowerShell. Vi basterà fare un copia e incolla su un nuovo documento Word e il gioco è fatto. <a href="https://github.com/FabioFabRob7/IMG_to_TEXT">Vi lascio il link GitHub</a> con tutti i file disponibili al download</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/18/avete-uno-scanner-o-una-foto-e-volete-estrapolare-il-testo-usa-img_to_text-py/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Volete verificare se il vostro filesystem dello smartphone è &#8220;ok&#8221;&#8230; Questo tool fa al caso vostro</title>
+		<link>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/index.html</link>
+					<comments>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 16:30:34 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[adb]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[CHECK]]></category>
+		<category><![CDATA[checker]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[fabiofabrob7]]></category>
+		<category><![CDATA[filesystem]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[su]]></category>
+		<category><![CDATA[superuser]]></category>
+		<category><![CDATA[system]]></category>
+		<category><![CDATA[Tool]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=524</guid>
+
+					<description><![CDATA[Quest&#8217;applicazione scritta in python3 vi darà la possibilità di verificare il vostro sistema Android con la possibilità di aggiustarlo automaticamente. Purtroppo solo su tutti gli smarphone con permessi di root (su/SuperUser). Questo tool monterà il sistema tramite Android Debug Bridge e checkerà tutto il sistema Android e quindi c&#8217;è bisogno del permesso di scrittura e [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quest&#8217;applicazione scritta in python3 vi darà la possibilità di verificare il vostro sistema Android con la possibilità di aggiustarlo automaticamente. Purtroppo solo su tutti gli smarphone con permessi di root (su/SuperUser). Questo tool monterà il sistema tramite Android Debug Bridge e checkerà tutto il sistema Android e quindi c&#8217;è bisogno del permesso di scrittura e lettura (RW). Questo io non posso darvelo ma sappiate che ci sono un sacco di tool (sia one-click che via flash) che vi daranno questi permessi oltre al file SU. In conclusione dopo avere il root avviate il programma da terminale (per Linux), cmd o Powershell (per Windows) e il gioco è fatto. Vedrete infine che il processo vi restituirà che sul vostro smartphone non ci sono problemi o se e2fsck ha riscontrato dei problemi e li ha sistemati. <a rel="noreferrer noopener" href="https://github.com/FabioFabRob7/e2fsck_ANDROID" target="_blank">Vi lascio il link mio GitHub</a> dove troverete tutti i file e le istruzioni nel file README.md. LA PROCEDURA NON E&#8217; RISCHIOSA!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Volete sbloccare il bootloader del vostro device o di vari brands Android&#8230; QUESTO FA AL CASO VOSTRO!</title>
+		<link>./../../../2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/index.html</link>
+					<comments>./../../../2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 23:29:40 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Bootloader]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Programma]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[rom]]></category>
+		<category><![CDATA[sblocco]]></category>
+		<category><![CDATA[Tool]]></category>
+		<category><![CDATA[Unlock]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=511</guid>
+
+					<description><![CDATA[Oramai il moding è entrato nelle orecchie di tutti ma di quasi tutti&#8230; Quindi ho sviluppato un app in Python che unisse un po&#8217; tutti i metodi ufficiali per i brands più venduti. Ovviamente non è un tool ufficiale ma i metodi sono quelli riportati dalle case di smartphone e, inoltre, i processi per lo [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Oramai il moding è entrato nelle orecchie di tutti ma di quasi tutti&#8230; Quindi ho sviluppato un app in Python che unisse un po&#8217; tutti i metodi ufficiali per i brands più venduti. Ovviamente non è un tool ufficiale ma i metodi sono quelli riportati dalle case di smartphone e, inoltre, i processi per lo sblocco del bootloader sono automatici. Purtroppo il programma è stato sviluppato in inglese anche se è molto comprensibile (aiutatevi con Google Traduttore). Visto che lo sblocco del bootloader è una pratica molto vantaggiosa che vi permette di entrare in possesso del vostro smartphone e flashare o installare qual si voglia programma, custom ROM, recovery, etcetc. mi sembrava giusto semplificare la vita. Ricordo che lo sblocco del bootloader fa perdere tutti i dati quindi ESEGUITE IL BACKUP e non mi assumo la responsabilità dell&#8217;eventuale e ipotetico brick dello smartphone. Comunque parlando di &#8220;official unlock&#8221; e quindi non penso ci saranno grandi problemi. Vi basterà seguire le istruzioni (sempre in inglese) per Windows o Linux e scaricare il file .zip con il programma .py e altri tool necessari allo sblocco del bootloader. Seguite attentamente il programma dopo averlo avviato come spiegato nel file README.md e il gioco sarà fatto. I brand supportati sono:</p>
+
+
+
+<ul><li>Google Pixel Phone</li><li>Huawei</li><li>Nokia-ONLY_8</li><li>Samsung</li><li>Sony</li><li>Xiaomi</li><li>General Devices NEW</li><li>General Devices OLD</li></ul>
+
+
+
+<p>Vi lascio il link dove troverete tutto: <a href="https://github.com/FabioFabRob7/Android_Unlocker">GitHub</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/12/22/volete-sbloccare-il-bootloader-del-vostro-device-o-di-vari-brands-android-questo-fa-al-caso-vostro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>May 2020 &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 07 Jun 2020 14:00:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Guida aggiornamento &#8211; Windows 10, May 2020 v.2004</title>
+		<link>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html</link>
+					<comments>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 14:00:56 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Aggiornamento]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[May 2020]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=223</guid>
+
+					<description><![CDATA[Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. Aprite questo link che vi porterà alla pagina ufficiale di Microsoft e cliccate su &#60;Aggiorna ora&#62; nella sezione &#60;Aggiornamento di Windows 10 (maggio 2020)&#62;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1348" height="654" src="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png?w=1024" alt="" class="wp-image-226" srcset="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png 1348w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-300x146.png 300w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-1024x497.png 1024w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-768x373.png 768w" sizes="(max-width: 1348px) 100vw, 1348px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. <a href="https://www.microsoft.com/it-it/software-download/windows10">Aprite questo link</a> che vi porterà alla pagina ufficiale di Microsoft e cliccate su &lt;Aggiorna ora&gt; nella sezione &lt;Aggiornamento di Windows 10 (maggio 2020)&gt;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il programma di aggiornamento che farà preventivamente un check-up della CPU, della memoria RAM e dell&#8217; hard disk. Cliccate sempre avanti se il programma trova il PC idoneo. In seguito scaricherà i file per l&#8217;installazione e preparerà il PC all&#8217;aggiornamento. Subito dopo cliccate su &lt;Riavvia ora&gt; e, dopo l&#8217;aggiornamento effettivo, controllate dalle impostazioni se siete passati alla versione 2004 andando su Informazioni PC e il gioco è fatto. Comunque ho notato qualche differenza nelle prestazioni e sono molto contento.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,192 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>installare &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Jul 2020 15:41:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>TUTORIAL &#8211; Installare Sistema Operativo open-source di Apple DarwinOS con macchina virtuale QEMU</title>
+		<link>./../../../2020/07/24/tutorial-installare-sistema-operativo-open-source-di-apple-darwinos-con-macchina-virtuale-qemu/index.html</link>
+					<comments>./../../../2020/07/24/tutorial-installare-sistema-operativo-open-source-di-apple-darwinos-con-macchina-virtuale-qemu/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2020 15:41:04 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Darwin]]></category>
+		<category><![CDATA[DarwinOS]]></category>
+		<category><![CDATA[install]]></category>
+		<category><![CDATA[installare]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[QEMU]]></category>
+		<category><![CDATA[Sistema operativo]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=402</guid>
+
+					<description><![CDATA[PER WINDOWS 10 1)Download DarwinOS 8 iso al link &#8220;https://sourceforge.net/projects/darwinsource/files/Darwin/8.0.1/darwinx86-801.iso.gz/download&#8221; 1.1)Estrarre con 7zip il file .iso 2)Download QEMU macchina virtuale 2.1)Installare QEMU 2.2)Copiare DarwinOS.iso in QEMU directory 3)Da prompt dei comandi spostarsi nella cartella installata di QEMU &#8220;cd C:\Program Files\qemu&#8221; 3.1) Create il disco rigido dove installare DarwinOS digitando &#8220;qemu-img create -f qcow2 darwin.qcow2 10G&#8221; [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-foreground-background-color has-background">PER WINDOWS 10</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="TUTORIAL - Installare Sistema Operativo open-source di Apple DarwinOS con macchina virtuale QEMU" width="1170" height="658" src="https://www.youtube.com/embed/rCOjaS8mTH8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="has-foreground-background-color has-background">1)Download DarwinOS 8 iso al link &#8220;https://sourceforge.net/projects/darwinsource/files/Darwin/8.0.1/darwinx86-801.iso.gz/download&#8221;</p>
+
+
+
+<p class="has-foreground-background-color has-background">1.1)Estrarre con 7zip il file .iso</p>
+
+
+
+<p class="has-foreground-background-color has-background">2)Download QEMU macchina virtuale</p>
+
+
+
+<p class="has-foreground-background-color has-background">2.1)Installare QEMU</p>
+
+
+
+<p class="has-foreground-background-color has-background">2.2)Copiare DarwinOS.iso in QEMU directory</p>
+
+
+
+<p class="has-foreground-background-color has-background">3)Da prompt dei comandi spostarsi nella cartella installata di QEMU &#8220;cd C:\Program Files\qemu&#8221;</p>
+
+
+
+<p class="has-foreground-background-color has-background">3.1) Create il disco rigido dove installare DarwinOS digitando &#8220;qemu-img create -f qcow2 darwin.qcow2 10G&#8221;</p>
+
+
+
+<p class="has-background-color has-foreground-background-color has-text-color has-background">4)Fate partire la macchina virtuale con boot del file .iso &#8220;qemu-system-i386 -net none -drive file=darwin.qcow2,cache=writeback -cdrom darwinx86-801.iso -boot d&#8221;</p>
+
+
+
+<p class="has-foreground-background-color has-background">5)Installazione</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.1)Select disk</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.2)&#8221;2&#8243; (manual partitioning)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.3)&#8221;y&#8221; (initialize MBR)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.4)In fdisk:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>auto hfs</p></blockquote>
+
+
+
+<p class="has-foreground-background-color has-background">Ignore the warning</p>
+
+
+
+<blockquote class="wp-block-quote"><p>update</p><p>write</p><p>quit</p></blockquote>
+
+
+
+<p class="has-foreground-background-color has-background">5.5)Enter partition name</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.6)&#8221;yes&#8221; (clean install)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.7)&#8221;darwin&#8221; (volume name)</p>
+
+
+
+<p class="has-foreground-background-color has-background">5.8)Enter (reboot)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6)Secondo avvio</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.1)Select disk</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.2)&#8221;3&#8243; (existing partition)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.3)Enter partition name</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.4)&#8221;hfs&#8221; (HFS+ filesystem)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.5)&#8221;yes&#8221; (clean install)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.6)&#8221;darwin&#8221; (volume name)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.7)Wait for installation to complete…</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.8)Enter root password</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.9)&#8221;darwin&#8221; (hostname)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.10)&#8221;3&#8243; (spawn shell)</p>
+
+
+
+<p class="has-foreground-background-color has-background">6.11)# halt</p>
+
+
+
+<p class="has-foreground-background-color has-background">7)Avvio macchina virtuale digitando &#8220;qemu-system-i386 -net nic,model=rtl8139 -net user,hostfwd=tcp:127.0.0.1:10022-:22 -drive file=darwin.qcow2,cache=writeback&#8221;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/07/24/tutorial-installare-sistema-operativo-open-source-di-apple-darwinos-con-macchina-virtuale-qemu/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

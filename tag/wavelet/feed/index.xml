@@ -1,0 +1,54 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wavelet &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 May 2020 14:56:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Android &#8211; Equalizzatore Wavelet</title>
+		<link>./../../../2020/05/19/android-equalizzatore-wavelet/index.html</link>
+					<comments>./../../../2020/05/19/android-equalizzatore-wavelet/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Tue, 19 May 2020 14:56:44 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Equalizzatore]]></category>
+		<category><![CDATA[Wavelet]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=166</guid>
+
+					<description><![CDATA[Volevo parlarvi di una nuova applicazione Android molto potente. Stiamo parlando di Wavelet. Questa applicazione contiene equalizzatori già preimpostati appositamente per le vostre cuffie. Vi basterà attivare la funzione Legacy dai tre puntini (Impostazioni) e selezionare le vostre cuffie nel menu di ricerca. Automaticamente verranno impostati bassi, alti, e medi a seconda della marca e [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="170" height="170" src="./../../../wp-content/uploads/2020/06/wavelet_android.png?w=170" alt="" class="wp-image-186" srcset="./../../../wp-content/uploads/2020/06/wavelet_android.png 170w, ./../../../wp-content/uploads/2020/06/wavelet_android-150x150.png 150w" sizes="(max-width: 170px) 100vw, 170px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Volevo parlarvi di una nuova applicazione Android molto potente. Stiamo parlando di <a href="https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet">Wavelet</a>. Questa applicazione contiene equalizzatori già preimpostati appositamente per le vostre cuffie. Vi basterà attivare la funzione Legacy dai tre puntini (Impostazioni) e selezionare le vostre cuffie nel menu di ricerca. Automaticamente verranno impostati bassi, alti, e medi a seconda della marca e del modello di cuffie che state utilizzando. Poi comunque si possono utilizzare anche altri equalizzatori preimpostati, come ad esempio bass boost, o crearne uno a nostro piacimento. E&#8217; proprio una applicazione ben fatta, con una ottima tecnologia e una qualità audio impeccabile. Io personalmente la preferisco a Dolby Atmos. Che ne pensate? L&#8217;avete già provata?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/05/19/android-equalizzatore-wavelet/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

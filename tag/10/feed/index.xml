@@ -1,0 +1,162 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>10 &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Dec 2020 14:04:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bloatware_Remover per sbarazzarsi definitivamente da Cortana e altre app</title>
+		<link>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/index.html</link>
+					<comments>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 14:04:16 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Bloatware]]></category>
+		<category><![CDATA[preinstallati]]></category>
+		<category><![CDATA[Programmi]]></category>
+		<category><![CDATA[remover]]></category>
+		<category><![CDATA[rimozione]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/</guid>
+
+					<description><![CDATA[Ho sviluppato nei mesi scorsi un app per Windows 10. Premetto che non sono responsabile di eventuali malfunzionamenti dopo la disinstallazione di bloatware (programmi preinstallati in Windows 10) comunque questa app scritta in Python 3.x (quindi per l&#8217;esecuzione di questo programma necessita nel PC installato Python 3.x) ti darà la possibilità di disinstallare programmi, come [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ho sviluppato nei mesi scorsi un app per Windows 10. Premetto che non sono responsabile di eventuali malfunzionamenti dopo la disinstallazione di bloatware (programmi preinstallati in Windows 10) comunque questa app scritta in Python 3.x (quindi per l&#8217;esecuzione di questo programma necessita nel PC installato Python 3.x) ti darà la possibilità di disinstallare programmi, come Cortana, che non sono disinstallabili da pannello di controllo o clickando con il pulsante destro sull&#8217;app per la disinstallazione. Vi lascio il link GitHub dove troverete un file readme.md da leggere assolutamente con qualsiasi programma text editor o anche con un IDE o direttamente in fondo alla pagina GitHub e il programma scritto in Python(*.py). Il link di tutti i miei programmi <a href="https://github.com/FabioFabRob7">é il seguente</a> invece per il repository del <a href="https://github.com/FabioFabRob7/Bloatware_Remover">Bloatware_Remover é al link seguente</a> dove potrete scaricare il file .zip con tutto il necessario. Ricordo che rimuovere i file preinstallati di Windows 10 diminuisce le funzionalità ma accelera tutti i caricamenti del sistema operativo all&#8217;avvio e nel caso rivorreste le vostre app di sistema vi basterà riscaricare dal Microsoft Store. Per qualsiasi ulteriore informazione non esitate a chiedermi nei commenti o su GitHub. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/12/21/bloatware_remover-per-sbarazzarsi-definitivamente-da-cortana-e-altre-app/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Huawei temerà il nuovo Microsoft Surface Laptop Go uscito proprio oggi?</title>
+		<link>./../../../2020/10/04/huawei-temera-il-nuovo-microsoft-surface-laptop-go-uscito-proprio-oggi/index.html</link>
+					<comments>./../../../2020/10/04/huawei-temera-il-nuovo-microsoft-surface-laptop-go-uscito-proprio-oggi/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2020 13:23:56 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Laptop go]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[new]]></category>
+		<category><![CDATA[nuova uscita]]></category>
+		<category><![CDATA[s]]></category>
+		<category><![CDATA[shop]]></category>
+		<category><![CDATA[Surface]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=437</guid>
+
+					<description><![CDATA[Secondo me Microsoft è stato sempre il computer per eccellenza e stavolta ha anche un hardware. Conosciamo ormai tutti la gamma Surface e finalmente arrivano laptop &#8220;GOOOO&#8221;. Questi notebook sono, come prezzo, ottimi e, finalmente per molti utenti, Microsoft lascia la possibilità di scegliere il sistema operativo. Stiamo parlando del Surface Laptop Go. Infatti monta [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We’d like you to meet the newest members of the Surface family. Say hello to Surface Laptop Go and Surface Pro X. <a href="https://twitter.com/hashtag/Originalbydesign?src=hash&amp;ref_src=twsrc%5Etfw">#Originalbydesign</a> <a href="https://t.co/WCgPNygP5G">https://t.co/WCgPNygP5G</a> <a href="https://t.co/66Kimdn0kC">pic.twitter.com/66Kimdn0kC</a></p>&mdash; Microsoft Surface (@surface) <a href="https://twitter.com/surface/status/1311653208373309442?ref_src=twsrc%5Etfw">October 1, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Secondo me Microsoft è stato sempre il computer per eccellenza e stavolta ha anche un hardware. Conosciamo ormai tutti la gamma Surface e finalmente arrivano laptop &#8220;GOOOO&#8221;. Questi notebook sono, come prezzo, ottimi e, finalmente per molti utenti, Microsoft lascia la possibilità di scegliere il sistema operativo. Stiamo parlando del Surface Laptop Go. Infatti monta un Windows Home configurato come S. Spieghiamo cos&#8217;è Windows S: è un sistema operativo Windows con la possibilità di installare solo programmi targati Microsoft così da ovviare al problema di virus&#8230; il problema sono le applicazioni di terze parti non installabili (non ufficiali Microsoft); una grande fetta e funzionalità di Microsoft cancellata ma non per sempre. Infatti per questo PC, da quello che ho capito, dispone di un Windows Home con la possibilità di scegliere se utilizzare la modalità S o no. Ma passiamo a prezzo e hardware. Il PC in questione dispone di un touchpad ad alta precisione e un touchscreen ottimo per coloro che devono fare un lavoro col mouse di precisione (touchpad) o disegni (touchscreen). Dispone anche del log in tramite impronta digitale (Windows Hello) sul pulsante di accensione che per il prezzo che vi svelerò in seguito è perfetto. Ricarica rapida con una batteria di 13 ore massimo a piena carica, webcam HD, schermo da 12,4&#8221; e un processore i5 di 10th generazione. La memoria può essere da 64GB + 4GB Ram, 128GB + 8GB Ram o 256GB + 8GB Ram &#8216;ovviamente più potente più costoso&#8217;; infatti il prezzo parte da 649€. Secondo voi questo nuovo notebook è all&#8217;apice del suo successo o c&#8217;è ancora qualcosa da migliorare? <a href="https://www.microsoft.com/it-it/p/surface-laptop-go/94fc0bdgq7wv?activetab=pivot:overviewtab">Vi lascio il link</a> se pensiate che Microsoft sia all&#8217;apice del suo successo!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/04/huawei-temera-il-nuovo-microsoft-surface-laptop-go-uscito-proprio-oggi/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A settembre vedremo una nuova famiglia di smartphone per Xiaomi &#8211; Mi 10T</title>
+		<link>./../../../2020/10/02/a-settembre-vedremo-una-nuova-famiglia-di-smartphone-per-xiaomi-mi-10t/index.html</link>
+					<comments>./../../../2020/10/02/a-settembre-vedremo-una-nuova-famiglia-di-smartphone-per-xiaomi-mi-10t/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2020 15:49:35 +0000</pubDate>
+				<category><![CDATA[PROTOTYPE]]></category>
+		<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[cheap]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[mi]]></category>
+		<category><![CDATA[mid-level]]></category>
+		<category><![CDATA[t]]></category>
+		<category><![CDATA[xiaomi]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=415</guid>
+
+					<description><![CDATA[Sono molto curioso di cosa ha in serbo Xiaomi con la sua nuova serie di smartphone targata Mi. Stiamo parlando della Mi 10T series. Smartphone 5G finalmente anche per Xiaomi ma quello più atteso è il Lite. Batteria meno potente rispetto agli altri, refresh rate più basso di 20 Hz che comunque si aggira intorno [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Like how we ended September with the launch of <a href="https://twitter.com/hashtag/Mi10TSeries?src=hash&amp;ref_src=twsrc%5Etfw">#Mi10TSeries</a>? Let&#39;s revive the moment again! <a href="https://twitter.com/hashtag/PowerYourCreativity?src=hash&amp;ref_src=twsrc%5Etfw">#PowerYourCreativity</a> <a href="https://t.co/ik2wXJwf8P">pic.twitter.com/ik2wXJwf8P</a></p>&mdash; Xiaomi (@Xiaomi) <a href="https://twitter.com/Xiaomi/status/1311667184662323202?ref_src=twsrc%5Etfw">October 1, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Sono molto curioso di cosa ha in serbo Xiaomi con la sua nuova serie di smartphone targata Mi. Stiamo parlando della Mi 10T series. Smartphone 5G finalmente anche per Xiaomi ma quello più atteso è il Lite. Batteria meno potente rispetto agli altri, refresh rate più basso di 20 Hz che comunque si aggira intorno ai 120 Hz che per un modello di 279€ (Mi 10T Lite (6GB Ram + 64GB Memoria Interna)) è buono. Il lite ovviamente è quello che costa di meno; invece per il Mi 10T (6GB Ram + 128GB Memoria Interna) e il Mi 10T Pro (8 GB Ram + 128GB Memoria Interna) il prezzo rispettivamente è 499€ e 599€. Le fotocamere raggiungono i 108MP. Sicuramente dei sensori fotografici molto potenti tutti e 4 insieme. Il refresh rate è di 144 Hz per il modello 10T e 10T Pro. Xiaomi sembra battere tutti in quanto a potenza, sistema operativo, funzionalità e rapporto qualità prezzo. Gli unici smartphone che potrebbero competere con Xiaomi reputo che possano essere i Nokia che negli ultimi anni sono rientrati in gioco con nuove infrastrutture e sono stati i primi ad avere un prototipo di smartphone con processore e connettività 5G (la velocità di banda). Credo che sul mercato Nokia sia quella con la migliore qualità/prezzo. L&#8217;unica pecca di Nokia a mio parere è l&#8217;Android Stock che non possiede nessuna app by Nokia.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Today, we are proud to announce that we have taken the total of <a href="https://twitter.com/hashtag/5G?src=hash&amp;ref_src=twsrc%5Etfw">#5G</a> deals that we have signed to 100, having signed 17 new 5G commercial deals in Q3 2020. <a href="https://t.co/XL2QgCr99I">https://t.co/XL2QgCr99I</a> <a href="https://t.co/QmXlA9VWVH">pic.twitter.com/QmXlA9VWVH</a></p>&mdash; Nokia (@nokia) <a href="https://twitter.com/nokia/status/1311926616994582528?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/10/02/a-settembre-vedremo-una-nuova-famiglia-di-smartphone-per-xiaomi-mi-10t/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guida aggiornamento &#8211; Windows 10, May 2020 v.2004</title>
+		<link>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html</link>
+					<comments>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 14:00:56 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[Aggiornamento]]></category>
+		<category><![CDATA[Guida]]></category>
+		<category><![CDATA[May 2020]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=223</guid>
+
+					<description><![CDATA[Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. Aprite questo link che vi porterà alla pagina ufficiale di Microsoft e cliccate su &#60;Aggiorna ora&#62; nella sezione &#60;Aggiornamento di Windows 10 (maggio 2020)&#62;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1348" height="654" src="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png?w=1024" alt="" class="wp-image-226" srcset="./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626.png 1348w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-300x146.png 300w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-1024x497.png 1024w, ./../../../wp-content/uploads/2020/06/annotazione-2020-06-07-154626-768x373.png 768w" sizes="(max-width: 1348px) 100vw, 1348px" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Vi riporto qui una semplice guida che ho seguito pure io per aggiornare a Windows 10, May 2020. <a href="https://www.microsoft.com/it-it/software-download/windows10">Aprite questo link</a> che vi porterà alla pagina ufficiale di Microsoft e cliccate su &lt;Aggiorna ora&gt; nella sezione &lt;Aggiornamento di Windows 10 (maggio 2020)&gt;; vi scaricherà un programma per l&#8217;aggiornamento di Windows. Installatelo e si aprirà il programma di aggiornamento che farà preventivamente un check-up della CPU, della memoria RAM e dell&#8217; hard disk. Cliccate sempre avanti se il programma trova il PC idoneo. In seguito scaricherà i file per l&#8217;installazione e preparerà il PC all&#8217;aggiornamento. Subito dopo cliccate su &lt;Riavvia ora&gt; e, dopo l&#8217;aggiornamento effettivo, controllate dalle impostazioni se siete passati alla versione 2004 andando su Informazioni PC e il gioco è fatto. Comunque ho notato qualche differenza nelle prestazioni e sono molto contento.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/07/guida-aggiornamento-windows-10-may-2020-v-2004/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

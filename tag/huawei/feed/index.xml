@@ -1,0 +1,55 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Huawei &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 May 2020 16:05:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Huawei &#8211; Matebook X Pro (2020)</title>
+		<link>./../../../2020/05/15/huawei-matebook-x-pro-2020/index.html</link>
+					<comments>./../../../2020/05/15/huawei-matebook-x-pro-2020/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 16:05:03 +0000</pubDate>
+				<category><![CDATA[PC/NOTEBOOK]]></category>
+		<category><![CDATA[Huawei]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows10]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=157</guid>
+
+					<description><![CDATA[Questo è il nuovo notebook di Huawei. I computer Huawei sono sempre i migliori in quanto a durata batteria infatti questo PC ha una durata dalle 11 alle 15 ore di utilizzo in base a cosa stiamo facendo. Dotato di SSD (hard-disk a stato solido) per un avvio molto veloce, Processore Intel® Core™ i7-10510U di [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-x-pro-2020/img/pc/huawei-matebook-x-pro-pc@2x.jpg" alt="" /></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Questo è il nuovo notebook di Huawei. I computer Huawei sono sempre i migliori in quanto a durata batteria infatti questo PC ha una durata dalle 11 alle 15 ore di utilizzo in base a cosa stiamo facendo. Dotato di SSD (hard-disk a stato solido) per un avvio molto  veloce, Processore Intel® Core<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i7-10510U di decima generazione e una scheda grafica NVIDIA® GeForce® MX250. Il peso è di soli 1,33 kg abbastanza leggero e ultra sottile. Ma passiamo alle cose più interessanti che non le solite specifiche. Abbiamo una webcam a scomparsa sotto il pulsante Function ottima per coloro che hanno un grande riguardo per la privacy. E per un accesso più sicuro al pc è incluso il riconoscimento dell&#8217;impronta digitale sul pulsante di accensione. Il sistema operativo è un Windows 10 Home e la risoluzione delle immagini è di 3000&#215;2000 (3k). Be bellissimo ma il prezzo? Sul sito di Huawei lo troviamo già scontato di 200€ era 1.999,00€, adesso 1.799,00€. Un po&#8217; costoso ma rivoluzionario a parer mio.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/05/15/huawei-matebook-x-pro-2020/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

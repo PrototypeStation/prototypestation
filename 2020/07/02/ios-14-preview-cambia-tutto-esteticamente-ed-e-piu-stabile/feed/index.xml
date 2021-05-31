@@ -1,0 +1,59 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: iOS 14 Preview&#8230; Cambia tutto esteticamente ed è più stabile	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Jul 2020 11:53:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: prototypestation		</title>
+		<link>./../index.html#comment-5</link>
+
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2020 11:53:11 +0000</pubDate>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=369#comment-5</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-4&quot;&gt;Francesca Ciurli&lt;/a&gt;.
+
+per iscriverti alla beta anche se non sei un developer: https://beta.apple.com/sp/betaprogram/
+sullo smartphone non si vede il link sottolineato cmq se clicchi dove c&#039;è la scritta QUI si apre
+cmq per vedere le features vai qui anche se non è la beta ma la preview for developer: https://www.apple.com/ios/ios-14-preview/]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-4">Francesca Ciurli</a>.</p>
+<p>per iscriverti alla beta anche se non sei un developer: <a href="https://beta.apple.com/sp/betaprogram/" rel="nofollow ugc">https://beta.apple.com/sp/betaprogram/</a><br />
+sullo smartphone non si vede il link sottolineato cmq se clicchi dove c&#8217;è la scritta QUI si apre<br />
+cmq per vedere le features vai qui anche se non è la beta ma la preview for developer: <a href="https://www.apple.com/ios/ios-14-preview/" rel="nofollow ugc">https://www.apple.com/ios/ios-14-preview/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Francesca Ciurli		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[Francesca Ciurli]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2020 19:57:48 +0000</pubDate>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=369#comment-4</guid>
+
+					<description><![CDATA[Ciao Fabio, non trovo il link a cui ti riferisci nel testo, puoi condividerlo qui nei commenti? Io ho iOS e proverò la beta (se riesco!) per vedere le news!!]]></description>
+			<content:encoded><![CDATA[<p>Ciao Fabio, non trovo il link a cui ti riferisci nel testo, puoi condividerlo qui nei commenti? Io ho iOS e proverò la beta (se riesco!) per vedere le news!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,86 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>foto &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Jun 2020 15:38:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Tutorial &#8211; Editor Immagini GIMP con interfaccia grafica PhotoShop</title>
+		<link>./../../../2020/06/26/editor-immagini-gimp-con-interfaccia-grafica-photoshop/index.html</link>
+					<comments>./../../../2020/06/26/editor-immagini-gimp-con-interfaccia-grafica-photoshop/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2020 15:38:14 +0000</pubDate>
+				<category><![CDATA[TUTORIAL]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[Gimp]]></category>
+		<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[Notebook]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[photo]]></category>
+		<category><![CDATA[Photo editor]]></category>
+		<category><![CDATA[PhotoGIMP]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=349</guid>
+
+					<description><![CDATA[GIMP è un editor fotografico molto interessante anche per coloro che non vogliono spendere soldi ne violare la legge crackando PhotoShop. GIMP è un prodotto GNU (Linux) che, ovviamente, è open-source e ha molte funzionalità, forse non tutte, rispetto a PhotoShop. Io lo uso per fare delle icone per il mio blog e anche a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - Customizzazione GIMP stile PhotoShop" width="1170" height="658" src="https://www.youtube.com/embed/gawefMr_Pxc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="687" height="369" src="./../../../wp-content/uploads/2020/06/photogimp1.png?w=687" alt="" data-id="350" data-link="https://prototypestation.wordpress.com/photogimp1/" class="wp-image-350" srcset="./../../../wp-content/uploads/2020/06/photogimp1.png 687w, ./../../../wp-content/uploads/2020/06/photogimp1-300x161.png 300w" sizes="(max-width: 687px) 100vw, 687px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1366" height="728" src="./../../../wp-content/uploads/2020/06/photogimp2.png?w=1024" alt="" data-id="351" data-link="https://prototypestation.wordpress.com/photogimp2/" class="wp-image-351" srcset="./../../../wp-content/uploads/2020/06/photogimp2.png 1366w, ./../../../wp-content/uploads/2020/06/photogimp2-300x160.png 300w, ./../../../wp-content/uploads/2020/06/photogimp2-1024x546.png 1024w, ./../../../wp-content/uploads/2020/06/photogimp2-768x409.png 768w" sizes="(max-width: 1366px) 100vw, 1366px" /></figure></li></ul></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">GIMP è un editor fotografico molto interessante anche per coloro che non vogliono spendere soldi ne violare la legge crackando PhotoShop. GIMP è un prodotto GNU (Linux) che, ovviamente, è open-source e ha molte funzionalità, forse non tutte, rispetto a PhotoShop. Io lo uso per fare delle icone per il mio blog e anche a livello studentesco può essere una buona partenza per le prime classi. Comunque oggi vi volevo portare sul mio web-site una nuova interfaccia grafica chiamata PhotoGIMP che è l&#8217;equivalente di PhotoShop&#8230; esteticamente. Se siete utenti Windows vi basterà copiare dei file scaricabili da GitHub e sovrascrivere i file. Una volta avviato GIMP da start non troverete più l&#8217;immagine di caricamento delle librerie classico di GIMP ma quello di Diolinux, uno sviluppatore e una volta finito il caricamento ci sarà l&#8217;interfaccia tipo PhotoShop. Carina come idea. Voi la proverete? Se avete problemi <a href="https://github.com/Diolinux/PhotoGIMP">qui c&#8217;è la guida</a> in fondo alla pagina <a href="https://github.com/Diolinux/PhotoGIMP/archive/master.zip">con i file scaricabili</a>.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>ISTRUZIONI:</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>1) SCARICATE IL PACCHETTO ZIP DI DIOLINUX DAL LINK: <a href="https://github.com/Diolinux/PhotoGIMP">https://github.com/Diolinux/PhotoGIMP</a></strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>2) ESTRAETE IL FILE .ZIP</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>3) PER WINDOWS 10 COPIATE IL CONTENUTO DELLA DIRECTORY /.var/app/org.gimp.GIMP/config/GIMP/2.10 DEL FILE ESTRATTO NELLA CARTELLA NASCOSTA C:/Users/IL_TUO_NOME/AppData/Roaming/GIMP/2.10 </strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>4) AVVIATE GIMP 2.10+ E AVRETE PHOTOGIMP!MOSTRA MENO</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/06/26/editor-immagini-gimp-con-interfaccia-grafica-photoshop/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

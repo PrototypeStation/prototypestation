@@ -1,0 +1,56 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>notizie &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Sep 2020 10:55:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Nuove Emoji su Android ma solo nella selezione</title>
+		<link>./../../../2020/09/10/nuove-emoji-su-android-ma-solo-nella-selezione/index.html</link>
+					<comments>./../../../2020/09/10/nuove-emoji-su-android-ma-solo-nella-selezione/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2020 10:55:43 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[emoji]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[notizie]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[ultime]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=412</guid>
+
+					<description><![CDATA[Avete notato anche voi, utilizzatori di Gboard, che la tastiera di Big Google ha aggiornato le proprie Emoji per una selezione più semplice. Le faccine sono graficamente migliorate e gli omini, animali, cibi e segnaletiche più grandi. In effetti quelle precedenti erano molto scomode perché, per una persona che non vede benissimo, erano fin troppo [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1080" height="747" src="./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272.png?w=1024" alt="" class="wp-image-413" srcset="./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272.png 1080w, ./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272-300x208.png 300w, ./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272-1024x708.png 1024w, ./../../../wp-content/uploads/2020/09/screenshot_20200910-1243272-768x531.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+
+
+
+<p>Avete notato anche voi, utilizzatori di Gboard, che la tastiera di Big Google ha aggiornato le proprie Emoji per una selezione più semplice. Le faccine sono graficamente migliorate e gli omini, animali, cibi e segnaletiche più grandi. In effetti quelle precedenti erano molto scomode perché, per una persona che non vede benissimo, erano fin troppo piccole. Ottima soluzione quelle di ingrandirle&#8230; L&#8217;unico problema è che sono presenti solo nella Gboard. Infatti quando selezioniamo la nostra Emoji e la inviamo rimangono quelle di un secolo fa. Purtroppo credo che il problema sia la compatibilità tra vari OS che per ovvi motivi di visualizzazione nelle conversazioni l&#8217;Emoji inviate sono uniformate per tutti gli OS. Speriamo che le varie case si mettano d&#8217;accordo per migliorarle.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/09/10/nuove-emoji-su-android-ma-solo-nella-selezione/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

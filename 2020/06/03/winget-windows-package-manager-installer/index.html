@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>TUTORIAL &#8211; Winget Windows Package Manager installer &#8211; prototypestation</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="prototypestation &raquo; Feed" href="./../../../../feed/index.html">
+<link rel="alternate" type="application/rss+xml" title="prototypestation &raquo; Comments Feed" href="./../../../../comments/feed/index.html">
+<link rel="alternate" type="application/rss+xml" title="prototypestation &raquo; TUTORIAL &#8211; Winget Windows Package Manager installer Comments Feed" href="./feed/index.html">
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./../../../../wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="./../../../../wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="asthir-gb-block-css" href="./../../../../wp-content/themes/asthir/assets/css/admin-block.css?ver=1.0" media="all">
+<link rel="stylesheet" id="asthir-blog-google-font-css" href="https://fonts.googleapis.com/css?family=Oxygen%3A400%2C500%2C700%7CRubik%3A400%2C500%2C500i%2C700%2C700i&#038;subset=latin%2Clatin-ext" media="all">
+<link rel="stylesheet" id="asthir-blog-main-css" href="./../../../../wp-content/themes/asthir-blog/assets/css/main.css?ver=1.0.2" media="all">
+<link rel="stylesheet" id="asthir-google-font-css" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%2C800%7CLato%3A300%2C400%2C500%2C600%2C700%2C800&#038;subset=latin%2Clatin-ext" media="all">
+<link rel="stylesheet" id="asthir-default-css" href="./../../../../wp-content/themes/asthir/assets/css/default.css?ver=1.0.2" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="./../../../../wp-content/themes/asthir/assets/css/bootstrap.css?ver=4.5.0" media="all">
+<link rel="stylesheet" id="font-awesome-five-all-css" href="./../../../../wp-content/themes/asthir/assets/css/all.css?ver=5.14.0" media="all">
+<link rel="stylesheet" id="asthir-block-style-css" href="./../../../../wp-content/themes/asthir/assets/css/block.css?ver=1.0" media="all">
+<link rel="stylesheet" id="asthir-main-css" href="./../../../../wp-content/themes/asthir/assets/css/asthir-main.css?ver=1.0.2" media="all">
+<link rel="stylesheet" id="asthir-style-css" href="./../../../../wp-content/themes/asthir-blog/style.css?ver=1.0.2" media="all">
+<script src="./../../../../wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script src="./../../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="./../../../../wp-json/index.html">
+<link rel="alternate" type="application/json" href="./../../../../wp-json/wp/v2/posts/189/index.html">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../../../../xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../../../../wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.7.2">
+<link rel="canonical" href="./index.html">
+<link rel="shortlink" href="./../../../../index.html?p=189">
+<link rel="alternate" type="application/json+oembed" href="./../../../../wp-json/oembed/1.0/embed/index.html?url=.%2F2020%2F06%2F03%2Fwinget-windows-package-manager-installer%2F">
+<link rel="alternate" type="text/xml+oembed" href="./../../../../wp-json/oembed/1.0/embed/index.html?url=.%2F2020%2F06%2F03%2Fwinget-windows-package-manager-installer%2F&#038;format=xml">
+<link rel="pingback" href="./../../../../xmlrpc.php">
+</head>
+
+<body class="post-template-default single single-post postid-189 single-format-standard as-blog1 no-sidebar">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+	
+		<header id="masthead" class="asthir-header site-header">
+		
+				<div class="site-branding text-center">
+			<div class="headerlogo-text">
+			<div class="container pb-5 pt-5">
+				<div class="asthir-logotext text-center">
+														<h1 class="site-title"><a href="./../../../../index.html" rel="home">prototypestation</a></h1>
+						
+						
+				</div>
+			</div>
+			</div>
+		</div>
+<!-- .site-branding -->
+		<div class="asthir-main-nav bg-dark text-white">
+			<div class="container">
+				<nav id="site-navigation" class="main-navigation text-center">
+					<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="mshow">Menu</span><span class="mhide">Close Menu</span></button>
+					<div class="menu-primary-container"><ul id="primary-menu" class="menu">
+<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="https://prototypestation.wordpress.com/">HOME</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167"><a href="./../../../../category/pc-notebook/index.html">PC/NOTEBOOK</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169"><a href="./../../../../category/xbox-playstation/index.html">XBOX/PLAYSTATION</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-564"><a href="./../../../../category/smartphone/index.html">SMARTPHONE</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-563"><a href="./../../../../category/green/index.html">GREEN</a></li>
+<li id="menu-item-562" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-562"><a href="./../../../../category/tutorial/index.html">TUTORIAL</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171"><a href="./../../../../category/prototype/index.html">PROTOTYPE</a></li>
+</ul></div>					<button class="screen-reader-text mmenu-hide">Close Menu</button>
+				</nav><!-- #site-navigation -->
+			</div>
+		</div>
+
+	</header><!-- #masthead --><div class="container mt-3 mb-5 pt-5 pb-3">
+	<div class="row">
+		<div class="col-lg-12">
+			<main id="primary" class="site-main">
+
+				
+<article id="post-189" class="post-189 post type-post status-publish format-standard hentry category-tutorial">
+			<div class="asthir-single-list">
+			<div class="content-text ">
+	<header class="entry-header text-center mb-5">
+			<h2 class="entry-title">TUTORIAL &#8211; Winget Windows Package Manager installer</h2>				<div class="entry-meta">
+					<span class="posted-on">Posted on <a href="./index.html" rel="bookmark"><time class="entry-date published updated" datetime="2020-06-03T20:02:20+00:00">June 3, 2020</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="./../../../../author/prototypestation/index.html">prototypestation</a></span></span>				</div>
+<!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+
+		<div class="entry-content">
+			
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="PrototypeStation - TUTORIAL - Installazione winget Windows Package Manager su Windows 10 build 2004" width="1170" height="658" src="https://www.youtube.com/embed/y2oEOCK0VZs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1080" height="675" src="./../../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image.jpg?w=1024" alt="" class="wp-image-190" srcset="./../../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image.jpg 1080w, ./../../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image-300x188.jpg 300w, ./../../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image-1024x640.jpg 1024w, ./../../../../wp-content/uploads/2020/06/windows_package_manager_winget_featured_image-768x480.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px"></figure>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background">Su linux esisteva apt-get per installare pacchetti come Steam. Ora Windows ha winget che è molto simile all&#8217;installatore di pacchetti di Linux. Basterà digitare sul nuovo prompt dei comandi denominato <a href="https://www.microsoft.com/it-it/p/windows-terminal/9n0dx20hk701?wa=wsignin1.0&amp;lc=1040&amp;activetab=pivot:overviewtab">Terminal</a> (giusto per essere un po più Linuxiani) la parola winget e ci verranno forniti i vari comandi di winget se questo è installato. Facciamo un esempio: dobbiamo cercare il nome del pacchetto di una applicazione che vogliamo installare su Windows quindi dall&#8217;app Terminal digitiamo winget search &lt;nome pacchetto&gt;. Premendo invio ci verranno forniti tutti i pacchetti inerenti a &lt;nome pacchetto&gt;. Successivamente per installarlo dovremo digitare winget install &lt;nome pacchetto visualizzato dalla ricerca&gt;. In automatico il Terminal scaricherà il file .exe e lo installerà.</p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>ISTRUZIONI:</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>1) SCARICATE IL PACCHETTO .APPXBUNDLE DA https://github-production-release-asset-2e65be.s3.amazonaws.com/197275130/a7799580-9510-11ea-8ea9-5bdcdcb92a6f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200703%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200703T150442Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e84219ab59d4780d41e58a0a12e6d7ff6601acd87ae8eef3e1eeb20e1e317250&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;repo_id=197275130&amp;response-content-disposition=attachment%3B%20filename%3DMicrosoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundle&amp;response-content-type=application%2Foctet-stream</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>2) INSTALLATE IL PACCHETTO</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>3) DA APP TERMINAL WINDOWS 10 SCRIVETE winget install _nome_pacchetto_ PER INSTALLARE UN PROGRAMMA</strong></p>
+
+
+
+<p class="has-black-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong>4) FINITO IL DOWNLOAD E L&#8217;INSTALLAZIONE ANDATE SU START E TROVERETE IL VOSTRO PROGRAMMA GIA&#8217; INSTALLATOMOSTRA MENO</strong></p>
+		</div>
+<!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<span class="cat-links">Posted in <a href="./../../../../category/tutorial/index.html" rel="category tag">TUTORIAL</a></span>		</footer><!-- .entry-footer -->
+
+	</div>
+	</div>		
+</article><!-- #post-189 -->
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links">
+<div class="nav-previous"><a href="./../../../05/19/android-equalizzatore-wavelet/index.html" rel="prev"><span class="nav-subtitle">Previous:</span> <span class="nav-title">Android &#8211; Equalizzatore Wavelet</span></a></div>
+<div class="nav-next"><a href="./../../04/olympia-ex900-sport-full-suspended/index.html" rel="next"><span class="nav-subtitle">Next:</span> <span class="nav-title">Olympia &#8211; EX900 Sport Full Suspended</span></a></div>
+</div>
+	</nav>
+<div id="comments" class="comments-area">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="./index.html#respond" style="display:none;">Cancel reply</a></small>
+</h3>
+<form action="./../../../../wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200"></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="189" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p>
+</form>	</div>
+<!-- #respond -->
+	
+</div>
+<!-- #comments -->
+			</main><!-- #main -->
+		</div>
+		</div> <!-- end row -->
+</div> <!-- end container -->
+
+
+	<footer id="colophon" class="site-footer text-white text-center">
+		<div class="site-info">
+			<a href="https://wordpress.org/">
+				Powered by WordPress			</a>
+			
+				Theme: asthir by <a href="https://wpthemespace.com/product/asthir/">WP Theme Space</a>.		</div>
+<!-- .site-info -->
+	</footer><!-- #colophon -->
+</div>
+<!-- #page -->
+
+<script src="./../../../../wp-content/themes/asthir/assets/js/bootstrap.js?ver=4.5.0" id="bootstrap-js"></script>
+<script src="./../../../../wp-content/themes/asthir/assets/js/navigation.js?ver=1.0.2" id="asthir-navigation-js"></script>
+<script src="./../../../../wp-content/themes/asthir/assets/js/scripts.js?ver=1.0.2" id="asthir-scripts-js"></script>
+<script src="./../../../../wp-includes/js/comment-reply.min.js?ver=5.7.2" id="comment-reply-js"></script>
+<script src="./../../../../wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
+
+</body>
+</html>

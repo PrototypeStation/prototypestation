@@ -1,0 +1,87 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>system &#8211; prototypestation</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Jan 2021 21:34:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>È vero MIUI è ricca di app però&#8230; Perché non poter disinstallare le app di sistema con un pratico tool</title>
+		<link>./../../../2021/01/29/e-vero-miui-e-ricca-di-app-pero-perche-non-poter-disinstallare-le-app-di-sistema-con-un-pratico-tool/index.html</link>
+					<comments>./../../../2021/01/29/e-vero-miui-e-ricca-di-app-pero-perche-non-poter-disinstallare-le-app-di-sistema-con-un-pratico-tool/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 21:34:27 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Bloatware]]></category>
+		<category><![CDATA[miui]]></category>
+		<category><![CDATA[official app]]></category>
+		<category><![CDATA[remover]]></category>
+		<category><![CDATA[sistema]]></category>
+		<category><![CDATA[system]]></category>
+		<category><![CDATA[xiaomi]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/2021/01/29/e-vero-miui-e-ricca-di-app-pero-perche-non-poter-disinstallare-le-app-di-sistema-con-un-pratico-tool/</guid>
+
+					<description><![CDATA[Ho appena comprato un nuovo smartphone con sistema operativo MIUI e ho notato l&#8217;abissale differenza tra Xiaomi e il mio vecchio smartphone (un Nokia ma non ditelo a nessuno 🙂 ). Mi sono trovato una caterva di applicazioni preinstallate che adoro e, per questo, Xiaomi sembra avere la meglio su altri smartphone europei e americani. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ho appena comprato un nuovo smartphone con sistema operativo <strong>MIUI</strong> e ho notato l&#8217;abissale differenza tra Xiaomi e il mio vecchio smartphone (un Nokia ma non ditelo a nessuno <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). <strong>Mi sono trovato una caterva di applicazioni preinstallate</strong> che adoro e, per questo, Xiaomi sembra avere la meglio su altri smartphone europei e americani. Però è anche vero che <strong>queste app non si possono disinstallare </strong>per liberare spazio o per inutilizzo (faccio un esempio: Google Chrome e Mi Browser, io preferisco Microsoft Edge). Allora <strong>ho deciso di creare questo tool per tutti i possessori di uno smartphone Xiaomi con sistema operativo MIUI!!!</strong> Ma passiamo alle operazioni da svolgere per eliminare le app di sistema. Prima di tutto avviate il programma nel link in fondo a questa pagina, sul vostro smartphone abilitate <strong>USB Debugging</strong> e infine selezionate dal vostro PC, tramite la mia app, quello che volete eliminare. Per l&#8217;app che elimina i <strong>bloatware</strong> (app di sistema di MIUI) servirà <strong>un PC, un cavo USB, python3 e il vostro smartphone</strong>&#8230; TUTTO QUA! <a rel="noreferrer noopener" href="https://github.com/FabioFabRob7/MIUI_Boatware_Remover_NO_ROOT" target="_blank">Vi lascio il link</a> per il <strong>download</strong> di tutti i file necessari e, mi raccomando, leggete attentamente il file <strong>README.md</strong>. Se avete curiosità lasciate un commento o mettete una stellina su <a rel="noreferrer noopener" href="https://github.com/FabioFabRob7/MIUI_Boatware_Remover_NO_ROOT" target="_blank">GitHub</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/29/e-vero-miui-e-ricca-di-app-pero-perche-non-poter-disinstallare-le-app-di-sistema-con-un-pratico-tool/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Volete verificare se il vostro filesystem dello smartphone è &#8220;ok&#8221;&#8230; Questo tool fa al caso vostro</title>
+		<link>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/index.html</link>
+					<comments>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[prototypestation]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 16:30:34 +0000</pubDate>
+				<category><![CDATA[SMARTPHONE]]></category>
+		<category><![CDATA[adb]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[CHECK]]></category>
+		<category><![CDATA[checker]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[fabiofabrob7]]></category>
+		<category><![CDATA[filesystem]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[su]]></category>
+		<category><![CDATA[superuser]]></category>
+		<category><![CDATA[system]]></category>
+		<category><![CDATA[Tool]]></category>
+		<guid isPermaLink="false">https://prototypestation.wordpress.com/?p=524</guid>
+
+					<description><![CDATA[Quest&#8217;applicazione scritta in python3 vi darà la possibilità di verificare il vostro sistema Android con la possibilità di aggiustarlo automaticamente. Purtroppo solo su tutti gli smarphone con permessi di root (su/SuperUser). Questo tool monterà il sistema tramite Android Debug Bridge e checkerà tutto il sistema Android e quindi c&#8217;è bisogno del permesso di scrittura e [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quest&#8217;applicazione scritta in python3 vi darà la possibilità di verificare il vostro sistema Android con la possibilità di aggiustarlo automaticamente. Purtroppo solo su tutti gli smarphone con permessi di root (su/SuperUser). Questo tool monterà il sistema tramite Android Debug Bridge e checkerà tutto il sistema Android e quindi c&#8217;è bisogno del permesso di scrittura e lettura (RW). Questo io non posso darvelo ma sappiate che ci sono un sacco di tool (sia one-click che via flash) che vi daranno questi permessi oltre al file SU. In conclusione dopo avere il root avviate il programma da terminale (per Linux), cmd o Powershell (per Windows) e il gioco è fatto. Vedrete infine che il processo vi restituirà che sul vostro smartphone non ci sono problemi o se e2fsck ha riscontrato dei problemi e li ha sistemati. <a rel="noreferrer noopener" href="https://github.com/FabioFabRob7/e2fsck_ANDROID" target="_blank">Vi lascio il link mio GitHub</a> dove troverete tutti i file e le istruzioni nel file README.md. LA PROCEDURA NON E&#8217; RISCHIOSA!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/01/07/volete-verificare-se-il-vostro-filesystem-dello-smartphone-e-ok-questo-tool-fa-al-caso-vostro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
